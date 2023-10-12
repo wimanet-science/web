@@ -1,6 +1,7 @@
 # SITE SETTINGS
 title: WIMANET
 # author: 
+baseurl: "/wimanet" 
 
 # SOCIAL PROFILES
 social:
