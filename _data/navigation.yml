@@ -17,7 +17,7 @@ verables# Links listed below will be included in your site's navbar (navigation 
   - href: /docs/conferences/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
+  - text: Knowledge transfer 2024
     href: /docs/custom-navigation/
 - text: GitHub
   href: https://github.com/wimanet.science/
