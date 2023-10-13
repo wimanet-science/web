@@ -1,3 +1,4 @@
 file naming: firsur.jpg
-
-￼Enter
+format: quadratic
+resolution: 300ppi
+max file size
