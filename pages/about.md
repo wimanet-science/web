@@ -17,6 +17,7 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 
 ## Working Groups
+
 Number |	Title	| Leader
 ---|---|---
  1	| Coordinating genomics, transcriptomics, and molecular markers | Nayden Chakarov
@@ -25,3 +26,5 @@ Number |	Title	| Leader
  4	| Impact of anthropogenic activities and wildlife malaria on host haematology	| Swen Renner 
  5	| Drivers of spatiotemporal variation in multi-host-parasite communities	| Kasun Bodawatta 
  6	| Coordinating and implementing the CBOs | Martina Ferraguti 
+
+ 
