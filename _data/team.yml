@@ -1,10 +1,8 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
-  description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+- name: Jenny Dunn
+  role: Action chair # Will appear next to name
+  image: assets/theme/images/jendun.jpg # Can be external link
   orcid: 0000-0000-0000-0000
   researchgate: researchgate_username
   googlescholar: googlescholar_username
@@ -13,14 +11,103 @@
   github: github_username
   email: name@example.com
 
-- name: Turanga Leela
-  role: Captain
-  description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+- name: Alfonso Marzal
+  role: Action vice chair # Will appear next to name
+  image: assets/theme/images/alfmar.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
-  description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+- name: Tamara Emmenegger
+  role: Science communication coordinator # Will appear next to name
+  image: assets/theme/images/tamemm.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com  
+  
+- name: Alexandra Corduneanu
+  role: Grant awarding coordinator # Will appear next to name
+  image: assets/theme/images/alecor.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+  
+- name: Nayden Chakarov
+  role: Working group leader WG1 # Will appear next to name
+  image: assets/theme/images/naycha.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+  
+- name: Melanie Duc
+  role: Working group leader WG2  # Will appear next to name
+  image: assets/theme/images/melduc.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+  
+- name: Josue Martinez-de la Puente
+  role: Working group leader WG3 # Will appear next to name
+  image: assets/theme/images/josmar.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+  
+- name: Swen Renner
+  role: Working group leader WG4 # Will appear next to name
+  image: assets/theme/images/sweren.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+
+- name: Kasun Bodawatta
+  role: Working group leader WG5 # Will appear next to name
+  image: assets/theme/images/kasbod.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+
+- name: Martina Ferraguti
+  role: Working group leader WG6 # Will appear next to name
+  image: assets/theme/images/marfer.jpg # Can be external link
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
+  
+  
