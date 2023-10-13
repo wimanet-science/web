@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Team
+title: The WIMANET team
 description: Who we are
 permalink: /team/
 ---
