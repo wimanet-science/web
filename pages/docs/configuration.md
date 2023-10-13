@@ -115,7 +115,7 @@ layout: home
 In `_config.yml` you can now define:
 
 ```yml
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+posts_on_home: 1                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of social.twitter on homepage
 ```
 
