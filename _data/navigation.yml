@@ -12,13 +12,10 @@ verables# Links listed below will be included in your site's navbar (navigation 
   menu: # Dropdown menu (one level deep only)
   - text: Protocols
     href: /docs/protocols/
-  - text: Knowledge transfer
+  - text: Courses
     href: /docs/courses/
-  - href: /docs/conferences/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Knowledge transfer 2024
-    href: /docs/custom-navigation/
+  - text: Meetings
+    href: /docs/meetings/
 - text: GitHub
   href: https://github.com/wimanet.science/
   new_window: true
