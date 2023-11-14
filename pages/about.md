@@ -2,9 +2,8 @@
 title: About WIMANET
 description: Here we describe the aims of our COST action and introduce the six working groups.
 background:
-  img: https://unsplash.com/de/fotos/gKUC4TMhOiY&auto=format&fit=crop&w=1200&q=80
-  by: Ousa Chea
-  href: https://unsplash.com/photos/UmncJq4KPcA
+  img: assets/theme/images/grw_straight.jpg
+  by: WiMANET
 permalink: /about/
 ---
 
