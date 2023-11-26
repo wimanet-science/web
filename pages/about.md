@@ -17,9 +17,14 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 
 ## Working Groups
-| 1 | Coordinating genomics, transcriptomics, and molecular markers | Working group lead: Nayden Chakarov, Co-lead:
-| 2 | Incorporating molecular markers and morphology to assign wildlife malaria lineages to species | Working group lead: Melanie Duc, Co-lead:
-| 3 | Vector transmission success in wildlife malaria | Working group lead: Josue Martinez-de la Puente, Co-lead:
-| 4 | Impact of anthropogenic activities and wildlife malaria on host haematology | Working group lead: Swen Renner, Co-lead: 
-| 5 | Drivers of spatiotemporal variation in multi-host-parasite communities | Working group lead: Kasun Bodawatta, Co-lead: 
-| 6 | Coordinating and implementing the CBOs | Working group lead: Martina Ferraguti, Co-lead: 
+- 1 Coordinating genomics, transcriptomics, and molecular markers, Working group lead: Nayden Chakarov, Co-lead:
+- 2 Incorporating molecular markers and morphology to assign wildlife malaria lineages to species, Working group lead: Melanie Duc, Co-lead:
+- 3 Vector transmission success in wildlife malaria, Working group lead: Josue Martinez-de la Puente, Co-lead:
+- 4 Impact of anthropogenic activities and wildlife malaria on host haematology, Working group lead: Swen Renner, Co-lead:
+- 5 Drivers of spatiotemporal variation in multi-host-parasite communities, Working group lead: Kasun Bodawatta, Co-lead:
+- 6 Coordinating and implementing the CBOs, Working group lead: Martina Ferraguti, Co-lead: 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
