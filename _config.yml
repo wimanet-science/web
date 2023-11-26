@@ -18,9 +18,9 @@ archive_permalink: /news/
 github_edit: true
 logo: assets/theme/images/nav-logo.png
 colors:
-  links: "#93c243"
-  banner: "#93c243"
-  footer: "#513266"
+  links: "#660000"
+  banner: "#990000"
+  footer: "#660000"
 
 # BUILD SETTINGS
 markdown: kramdown
