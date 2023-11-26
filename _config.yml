@@ -16,7 +16,7 @@ posts_on_home: 3
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: true
-logo: assets/theme/images/nav-logo.jpg
+logo: assets/theme/images/nav-logo.png
 colors:
   links: "#93c243"
   banner: "#93c243"
