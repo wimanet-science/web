@@ -1,19 +1,19 @@
 # SITE SETTINGS
-title: WIMANET - Wildlife malaria network
+title: WIMANET
 # author: 
 baseurl: "/wimanet" 
 
 # SOCIAL PROFILES
 social:
-#  email: wimanet.science@gmail.com
-#  twitter: @wimanet.science
-#  github: github.io/wimanet.science
+#  email: 
+#  twitter: 
+#  github: 
 
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish@3.0
-posts_on_home: 1
-tweets_on_home: true
+posts_on_home: 3
+tweets_on_home: false
 archive_permalink: /news/
 github_edit: true
 # logo: 
