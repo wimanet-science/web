@@ -13,7 +13,10 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
+      This project is funded through the [COST Action CA22108 - Wildlife Malaria Network (WIMANET)](https://www.cost.eu/actions/CA22108/).
+      This project website is made with ❤ for open source.
+
+      
       See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
       to customize this text.
     links:
