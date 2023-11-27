@@ -3,6 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+- description:
+    ![cost](assets/theme/images/cost-logo-white.svg)
+
   - description:
     links:
     - text: The University of Lincoln
