@@ -5,11 +5,11 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: The University of Lincoln
+      href: https://www.lincoln.ac.uk/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: The COST (European Cooperation in Science and Technology) association
+      href: https://www.cost.eu/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
