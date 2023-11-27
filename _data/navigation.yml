@@ -8,7 +8,7 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
+- text: Outputs
   menu: # Dropdown menu (one level deep only)
   - text: Installation
     href: /docs/installation/
