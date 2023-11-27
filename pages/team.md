@@ -5,4 +5,5 @@ description: Who we are
 permalink: /team/
 ---
 
-This COST action's main leadership contacts:
+These are this COST action's main leadership members:
+
