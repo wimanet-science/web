@@ -3,9 +3,10 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-- description:
-    ![cost](assets/theme/images/cost-logo-white.svg)
-
+header-includes: |
+  \lfoot{\includegraphics[width=400px]{assets/theme/images/cost-logo-white.svg}}}
+    ![cost]()
+    
   - description:
     links:
     - text: The University of Lincoln
