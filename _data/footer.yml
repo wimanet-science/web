@@ -3,10 +3,6 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-header-includes: |
-  \lfoot{\includegraphics[width=400px]{assets/theme/images/cost-logo-white.svg}}}
-    ![cost]()
-    
   - description:
     links:
     - text: The University of Lincoln
@@ -17,10 +13,9 @@ header-includes: |
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
+      This project is funded through the [COST Action CA22108 - Wildlife Malaria Network (WIMANET)](https://www.cost.eu/actions/CA22108/).
       This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
-    links:
+  links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
