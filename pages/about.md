@@ -1,7 +1,7 @@
 ---
 title: About WIMANET
 description: Here we describe the aims of our COST action and introduce the six working groups.
-background: assets/theme/images/fieldnotes.JPG
+background: assets/theme/images/grw_straight.JPG
 permalink: /about/
 ---
 
@@ -9,9 +9,7 @@ permalink: /about/
 ### Background
 Vector-borne diseases, and emerging infectious diseases of wildlife, are major contributors to the global disease burden and of increasing concern globally. Haemosporidian parasites are ubiquitous in nature, hugely diverse, and associated with morbidity and mortality across taxa, including humans, livestock and wildlife. Many research groups globally focus on these parasites as model systems for addressing a broad range of ecological and evolutionary questions with economic and health implications. 
 
-![logo](/assets/theme/images/logo-big.png)
-_Wildlife malaria is transmitted by insect vectors. Transmission requires a competent vector subsequently feeding on an infected vertebrate host and inoculating sporozoites
-into a next susceptible individual._
+<img style="float: right;" src="logo-big.png">
 
 ### Aims
 - This Action will bring together individuals and research groups to focus on coordinating research objectives to which multiple groups can contribute existing datasets, meaning that questions can be addressed at a global, rather than a local or regional, scale. Coordinating and sharing research efforts between groups offers huge potential for large-scale collaborative research initiatives. 
