@@ -6,8 +6,8 @@ permalink: /about/
 ---
 
 ## Description
-### Background
 <img style="float" align="right" hspace="10" vspace="10" width="200" alt="logo" src="../assets/theme/images/logo-big.png">
+### Background
 Vector-borne diseases, and emerging infectious diseases of wildlife, are major contributors to the global disease burden and of increasing concern globally. Haemosporidian parasites are ubiquitous in nature, hugely diverse, and associated with morbidity and mortality across taxa, including humans, livestock and wildlife. Many research groups globally focus on these parasites as model systems for addressing a broad range of ecological and evolutionary questions with economic and health implications. 
 
 ### Aims
