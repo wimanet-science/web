@@ -7,7 +7,7 @@
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
-  - text: Working group 1
+  - text: WG 1: Genomics and molecular markers
   - text: Working group 2
   - text: Working group 3
   - text: Working group 4
