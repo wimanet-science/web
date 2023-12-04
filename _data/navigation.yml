@@ -19,9 +19,9 @@
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
   - text: Meetings
-    href: /docs/installation/
+    #href: /docs/installation/
   - text: Protocols
-    href: /docs/configuration/
+    #href: /docs/configuration/
   - text: Short-term scientific missions (STMs)
   - text: Publications
 - text: GitHub
