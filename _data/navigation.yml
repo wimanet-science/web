@@ -7,12 +7,12 @@
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
-  - text: Working group 1: Genomics and molecular markers
-  - text: Working group 2: Molecular lineages and morphospecies
-  - text: Working group 3: Vectors and transmission
-  - text: Working group 4: Impacts on host haematology
-  - text: Working group 5: Multi-host-parasite communities
-  - text: Working group 6: Communication and dissemination
+  - text: Working group 1
+  - text: Working group 2
+  - text: Working group 3
+  - text: Working group 4
+  - text: Working group 5
+  - text: Working group 6
 - text: Blog
   href: /blog/
 - text: Outputs
