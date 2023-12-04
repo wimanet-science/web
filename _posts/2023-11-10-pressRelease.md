@@ -3,6 +3,7 @@ title: Press release about WIMANET launch
 description: |
 background: /assets/theme/images/fieldnotes.JPG
 author: Jenny Dunn
+tags: [media]
 comments: true
 ---
 
