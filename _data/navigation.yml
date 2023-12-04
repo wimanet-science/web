@@ -5,6 +5,7 @@
 - text: About
   href: /about/
 - text: Team
+  href: /team/
   menu: # Dropdown menu (one level deep only)
   - text: Main leadership members
     href: /team/
