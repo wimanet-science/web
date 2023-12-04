@@ -14,8 +14,6 @@
   - text: WG4 Impact on host haematology
   - text: WG5 Multi host-parasite communities 
   - text: WG6 Communication and dissemination
-- text: Blog
-  href: /blog/
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
   - text: Meetings
@@ -24,6 +22,8 @@
     #href: /docs/configuration/
   - text: Short-term scientific missions (STMs)
   - text: Publications
+- text: Blog
+  href: /blog/
 - text: GitHub
-  href: https://github.com/peterdesmet/petridish/
+  href: https://github.com/wimanet/
   new_window: true
