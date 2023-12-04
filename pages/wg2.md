@@ -1,7 +1,7 @@
 ---
 layout: team
-title: The team of WIMANET working group 2
-description: Who we are
+title: WIMANET working group 2
+description: Incorporating molecular markers and morphology to assign wildlife malaria lineages to species
 permalink: /wg2/
 ---
 
