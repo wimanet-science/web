@@ -8,11 +8,11 @@
   href: /team/
   menu: # Dropdown menu (one level deep only)
   - text: WG1 Genomics and molecular markers
-  - text: Working group 2
-  - text: Working group 3
-  - text: Working group 4
-  - text: Working group 5
-  - text: Working group 6
+  - text: WG2 Molecular lineages and morphospecies
+  - text: WG3 Vectors and transmission
+  - text: WG4 Impact on host haematology
+  - text: WG5 Multi host-parasite communities 
+  - text: WG6 Communication and dissemination
 - text: Blog
   href: /blog/
 - text: Outputs
