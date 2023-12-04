@@ -1,7 +1,7 @@
 ---
 layout: team
-title: The team of WIMANET working group 1
-description: Who we are
+title: WIMANET working group 1
+description: Coordinating genomics, transcriptomics, and molecular markers
 permalink: /wg1/
 ---
 
