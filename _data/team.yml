@@ -26,13 +26,12 @@
   role: Science communication coordinator # Will appear next to name
   image: assets/theme/images/tamemm.jpg # Can be external link
   description: Since her PhD, Tamara studied avian malaria parasites and host-parasite interactions and she started co-curating the [MalAvi database](http://130.235.244.92/Malavi/) from 2021. Tamara is now working as a museum curator, but keeps collaborating with the wildlife malaria network, and shares her programming and communication skills as the Science Communications Co-ordinator of WIMANET.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com  
+  orcid: 0000-0002-2839-6129
+  researchgate: Tamara-Emmenegger
+  googlescholar: fHowp7cAAAAJ
+  twitter: tavimalara
+  github: tavimalara
+  email: avianmalaria@gmail.com
   
 - name: Alexandra Corduneanu
   role: Grant awarding coordinator # Will appear next to name
