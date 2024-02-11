@@ -56,13 +56,11 @@
 - name: Melanie Duc
   role: Working group leader WG2  # Will appear next to name
   image: assets/theme/images/melduc.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+  description: Melanie finished her PhD in 2023 on the topic of exo-erythrocytic tissue stages of Haemoproteus (Apicomplexa, Haemosporida) parasites in wild infected birds. Continuing studying the life cycle of these parasites, she started leading the WG2 of WIMANET with Prof. Ravinder Seghal.
+  orcid: 0000-0001-5468-2594
+  researchgate: Melanie-Duc
+  googlescholar: E7dmQooAAAAJ
+  email: melanie.duc@gamtc.lt
   
 - name: Josue Martinez-de la Puente
   role: Working group leader WG3 # Will appear next to name
@@ -87,7 +85,7 @@
 - name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
   image: assets/theme/images/kasbod.jpg # Can be external link
-  description: Kasun is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities. [Personal Website] (https://kasunbodawatta.com/).
+  description: Kasun is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities. Also see his [personal website](https://kasunbodawatta.com/).
   orcid: 0000-0002-6095-9059
   researchgate: Kasun-Bodawatta
   googlescholar: sZwq_ngAAAAJ
