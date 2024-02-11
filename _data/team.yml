@@ -3,24 +3,10 @@
 - name: Jenny Dunn
   role: Action chair # Will appear next to name
   image: assets/theme/images/jendun.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
 
 - name: Alfonso Marzal
   role: Action vice chair # Will appear next to name
   image: assets/theme/images/alfmar.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
 
 - name: Tamara Emmenegger
   role: Science communication coordinator # Will appear next to name
@@ -41,17 +27,9 @@
   researchgate: Corduneanu-Alexandra
   email: alexandra.corduneanu@usamvcluj.ro
 
-
 - name: Nayden Chakarov
   role: Working group leader WG1 # Will appear next to name
   image: assets/theme/images/naycha.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
   
 - name: Melanie Duc
   role: Working group leader WG2  # Will appear next to name
@@ -74,13 +52,6 @@
 - name: Swen Renner
   role: Working group leader WG4 # Will appear next to name
   image: assets/theme/images/sweren.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
 
 - name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
