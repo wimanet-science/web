@@ -38,10 +38,10 @@
   image: assets/theme/images/alecor.jpg # Can be external link
   description: Alexandra is an assistant professor and teaches at the University of Agricultural Sciences and Veterinary Medicine in Cluj-Napoca. She has been working on vectors and vector-borne pathogens associated with bats and added valuable knowledge on pathogen epidemiology and transmission dynamics through fieldwork, sample collection, and molecular analyses. She is involved in WIMANET as Grant Award Coordinator.
   orcid: 0000-0002-6682-1827
-  Research gate: Corduneanu-Alexandra
+  researchgate: Corduneanu-Alexandra
   email: alexandra.corduneanu@usamvcluj.ro
 
-  
+
 - name: Nayden Chakarov
   role: Working group leader WG1 # Will appear next to name
   image: assets/theme/images/naycha.jpg # Can be external link
