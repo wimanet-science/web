@@ -87,7 +87,7 @@
 - name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
   image: assets/theme/images/kasbod.jpg # Can be external link
-  description: Kasun [(personal page)](https://kasunbodawatta.com/). is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities.
+  description: Kasun [(personal page)](https://kasunbodawatta.com/) is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities.
   orcid: 0000-0002-6095-9059
   researchgate: Kasun-Bodawatta
   googlescholar: sZwq_ngAAAAJ
@@ -97,12 +97,12 @@
 - name: Martina Ferraguti
   role: Working group leader WG6 # Will appear next to name
   image: assets/theme/images/marfer.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+  description: Martina explores ecological impacts on mosquito-borne diseases. In her postdocs (JdC and MSCA-IF), she delved into avian malaria parasites’ host-pathogen dynamics and developed epidemiological models for vector-borne diseases. Back in Spain since 2023, she holds a Ramón y Cajal position at EBD-CSIC. In WIMANET, she leads WG6 - Coordinating & Implementing CBOs. Explore further on her [webpage](https://martinaferraguti.com/).
+  orcid: 0000-0001-7481-4355
+  researchgate: Martina-Ferraguti
+  googlescholar: C_6KEM4AAAAJ
+  twitter: M_Ferraguti
+  github: mferragutiGitHub
+  email: mferraguti@ebd.csic.es
   
   
