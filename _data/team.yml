@@ -36,13 +36,11 @@
 - name: Alexandra Corduneanu
   role: Grant awarding coordinator # Will appear next to name
   image: assets/theme/images/alecor.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+  description: Alexandra is an assistant professor and teaches at the University of Agricultural Sciences and Veterinary Medicine in Cluj-Napoca. She has been working on vectors and vector-borne pathogens associated with bats and added valuable knowledge on pathogen epidemiology and transmission dynamics through fieldwork, sample collection, and molecular analyses. She is involved in WIMANET as Grant Award Coordinator.
+  orcid: 0000-0002-6682-1827
+  Research gate: Corduneanu-Alexandra
+  email: alexandra.corduneanu@usamvcluj.ro
+
   
 - name: Nayden Chakarov
   role: Working group leader WG1 # Will appear next to name
