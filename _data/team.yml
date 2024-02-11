@@ -67,7 +67,7 @@
 - name: Josue Martinez-de la Puente
   role: Working group leader WG3 # Will appear next to name
   image: assets/theme/images/josmar.jpg # Can be external link
-  description: Josu%C3%A9 studies the ecology and evolution of parasite transmission networks. Throughout his career, he has used a wide range of approaches combining the extensive monitoring of natural processes and experimental procedures in the wild and in the laboratory. He is leading working group 3 on the study of vectors of wildlife malaria.
+  description: Josu%C3%A9 studies the ecology and evolution of parasite transmission networks. Throughout his career, he has used a wide range of approaches combining the extensive monitoring of natural processes and experimental procedures in the wild and in the laboratory. He is leading WG3 on the study of vectors of wildlife malaria.
   researchgate: Josue-Martinez-De-La-Puente
   googlescholar: hj8sOtkAAAAJ
   twitter: MartinezPuente
@@ -84,16 +84,15 @@
   github: github_username
   email: name@example.com
 
-- name: Kasun Bodawatta
+- name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
   image: assets/theme/images/kasbod.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+  description: [Kasun](https://kasunbodawatta.com/) is an evolutionary and community ecologist, whose main research interests are in understanding the drivers of host-symbiont associations and complex environmental microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities.
+  orcid: 0000-0002-6095-9059
+  researchgate: Kasun-Bodawatta
+  googlescholar: sZwq_ngAAAAJ
+  twitter: Bodawatta
+  email: bodawatta@sund.ku.dk
 
 - name: Martina Ferraguti
   role: Working group leader WG6 # Will appear next to name
