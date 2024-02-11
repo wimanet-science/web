@@ -67,13 +67,11 @@
 - name: Josue Martinez-de la Puente
   role: Working group leader WG3 # Will appear next to name
   image: assets/theme/images/josmar.jpg # Can be external link
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+  description: Josué studies the ecology and evolution of parasite transmission networks. Throughout his career, he has used a wide range of approaches combining the extensive monitoring of natural processes and experimental procedures in the wild and in the laboratory. He is leading work-package 3 on the study of vectors of wildlife malaria.
+  researchgate: Josue-Martinez-De-La-Puente
+  googlescholar: hj8sOtkAAAAJ
+  twitter: @MartinezPuente
+  email: jmp@ebd.csic.es
   
 - name: Swen Renner
   role: Working group leader WG4 # Will appear next to name
