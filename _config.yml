@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: Wildlife Malaria Network
 # author: 
-baseurl: "/wimanet" 
+baseurl: "/web" 
 
 # SOCIAL PROFILES
 social:
