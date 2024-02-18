@@ -3,6 +3,7 @@
 - name: Jenny Dunn
   role: Action chair # Will appear next to name
   image: assets/theme/images/jendun.jpg # Can be external link
+  description:Jenny is Chair of WIMANET, and her interests span a wide range of aspects of parasite diversity and ecology. Her study systems focus on infections by Plasmodium, Haemoproteus, Leucocytozoon and Lankesterella in wild birds in the UK and Africa. More information on her lab is available [here](https://jennycdunn.wordpress.com).
   orcid: 0000-0002-6277-2781
   researchgate: Jenny-Dunn-2
   googlescholar: 0GP7Tv0AAAAJ
@@ -68,7 +69,7 @@
 - name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
   image: assets/theme/images/kasbod.jpg # Can be external link
-  description: Kasun is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 focused on multi host-parasite communities. Also see his [personal website](https://kasunbodawatta.com/).
+  description: Kasun is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 on multi host-parasite communities. Also see his [personal website](https://kasunbodawatta.com/).
   orcid: 0000-0002-6095-9059
   researchgate: Kasun-Bodawatta
   googlescholar: sZwq_ngAAAAJ
@@ -78,7 +79,7 @@
 - name: Martina Ferraguti
   role: Working group leader WG6 # Will appear next to name
   image: assets/theme/images/marfer.jpg # Can be external link
-  description: Martina explores ecological impacts on mosquito-borne diseases. In her postdocs (JdC and MSCA-IF), she delved into avian malaria parasites’ host-pathogen dynamics and developed epidemiological models for vector-borne diseases. Back in Spain since 2023, she holds a Ramón y Cajal position at EBD-CSIC. In WIMANET, she leads WG6 - Coordinating & Implementing CBOs. Explore further on her [webpage](https://martinaferraguti.com/).
+  description: Martina explores ecological impacts on mosquito-borne diseases. In her postdocs (JdC and MSCA-IF), she delved into host-pathogen dynamics and developed epidemiological models for vector-borne diseases. Since 2023, she holds a Ramón y Cajal position at EBD-CSIC. In WIMANET, she leads WG6 - Coordinating & Implementing CBOs. Explore further on her [webpage](https://martinaferraguti.com/).
   orcid: 0000-0001-7481-4355
   researchgate: Martina-Ferraguti
   googlescholar: C_6KEM4AAAAJ
