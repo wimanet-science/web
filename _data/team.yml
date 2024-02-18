@@ -3,6 +3,12 @@
 - name: Jenny Dunn
   role: Action chair # Will appear next to name
   image: assets/theme/images/jendun.jpg # Can be external link
+  description: Jenny is Chair of WIMANET, and her interests span a wide range of aspects of parasite diversity and ecology. Her study systems focus on infections by Plasmodium, Haemoproteus, Leucocytozoon and Lankesterella in wild birds in the UK and Africa. More information on her lab is available [here](https://jennycdunn.wordpress.com).
+  orcid: 0000-0002-6277-2781
+  researchgate: Jenny-Dunn-2
+  googlescholar: 0GP7Tv0AAAAJ
+  twitter: jennycdunn
+  email: JDunn@lincoln.ac.uk
 
 - name: Alfonso Marzal
   role: Action vice chair # Will appear next to name
