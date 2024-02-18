@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to the website of the COST Action WIMANET:
 
-![COSTEU](/assets/theme/images/COSTEU.jpg)
+![COSTEU](https://github.com/wimanet-science/web/blob/e5f5a428f38f463b2e855eea3318d8a2da735e84/assets/theme/images/COSTEU.png)
 
 COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. 
 Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. 
