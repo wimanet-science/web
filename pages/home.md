@@ -6,7 +6,6 @@ background: /assets/theme/images/MerApi_para.png
 permalink: /
 ---
 
-## Welcome the COST Action WIMANET:
-![COST-logo](/assets/theme/images/cost-logo-white.svg)
+![COST-logo](/assets/theme/images/COSTEU.png)
 
 ## News from the project:
