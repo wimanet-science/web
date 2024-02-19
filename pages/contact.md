@@ -1,8 +1,8 @@
 ---
-layout: archive
 title: Contact
-description: How to get in contact 
+description: How to get in contact with us
+background: /assets/theme/images/grw_straight.jpg
 permalink: /contact/
 ---
 
-<!-- Content here would shop up above your list of posts -->
+
