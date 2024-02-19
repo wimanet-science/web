@@ -5,4 +5,4 @@ background: /assets/theme/images/grw_straight.jpg
 permalink: /contact/
 ---
 
-Write us an e-mail on: wimanet.science (at) gmail (dot) com
+Write us an e-mail on: wimanet.science (at) gmail (dot) com !
