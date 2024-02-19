@@ -6,3 +6,5 @@ permalink: /contact/
 ---
 
 Write us an e-mail on: wimanet.science (at) gmail (dot) com !
+
+<a href="#" id="open-popup" onclick ="showMailingPopUp(); return false;">Or subscribe to our Newsletter !</a>
