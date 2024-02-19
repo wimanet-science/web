@@ -17,11 +17,13 @@
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
   - text: Meetings
-    href: /docs/meetings/
+    href: /meetings/
   - text: Protocols
-    #href: /docs/configuration/
+    #href: /protocols/
   - text: Short-term scientific missions (STMs)
+    #href: /stms/
   - text: Publications
+    #href: /publications/
 - text: Blog
   href: /blog/
 - text: Contact
