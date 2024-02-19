@@ -7,8 +7,9 @@ toc: true
 
 ## 2024
 
-- First WIMANET action meeting, Cluj-Napoca, Romania, 20th – 23rd February
+- Second action workshop (hybrid), Cluj-Napoca, Romania, 20th – 23rd February
 
 ## 2023
 
-- Management committee meeting, online, 28th September
+- First action workshop & MC meeting, online, 6th December
+- Kick-off meeting, online, 28th September
