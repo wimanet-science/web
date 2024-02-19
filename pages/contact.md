@@ -5,8 +5,11 @@ background: /assets/theme/images/grw_straight.jpg
 permalink: /contact/
 ---
 
-## Write us an e-mail on: 
-wimanet.science (at) gmail (dot) com !
+## Write us an e-mail to: 
+
+wimanet.science (at) gmail (dot) com
+
+## Or subscribe to our newsletter: 
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -17,7 +20,7 @@ wimanet.science (at) gmail (dot) com !
 </style>
 <div id="mc_embed_signup">
     <form action="https://cost.us13.list-manage.com/subscribe/post?u=275310857bbcf917bec086b17&amp;id=f07e9b00a5&amp;f_id=00a2f4e7f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-        <div id="mc_embed_signup_scroll"><h2>Or subscribe to our newsletter:</h2>
+        <div id="mc_embed_signup_scroll">
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">E-mail <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text">example@mail.com</span></div><div class="mc-field-group"><label for="mce-FNAME">Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Surname </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div>
         <div id="mce-responses" class="clear foot">
@@ -38,4 +41,3 @@ wimanet.science (at) gmail (dot) com !
 </form>
 </div>
 </div>
-
