@@ -15,11 +15,11 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - This Action will promote the development of a common research agenda by providing opportunities for training, collaboration and knowledge exchange, targeting diverse researchers across disciplines to foster an interdisciplinary approach, whilst also recruiting and supporting a diversity of new researchers. 
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 
-| #  | Working groups      | Lead  | 
-| -----  | ----------- | ----------- | 
-| 1  | Coordinating genomics, transcriptomics, and molecular markers      | Nayden Chakarov  | 
-| 2  | Incorporating molecular markers and morphology to assign wildlife malaria lineages to species   | Melanie Duc  | 
-| 3  | Vector transmission success in wildlife malaria     | Josue Martinez-de la Puente  | 
-| 4  | Impact of anthropogenic activities and wildlife malaria on host haematology   | Swen Renner  | 
-| 5  | Drivers of spatiotemporal variation in multi-host-parasite communities      | Kasun Bodawatta  | 
-| 6  | Coordinating and implementing the CBOs   | Martina Ferraguti  | 
+| #  | Working groups      | Lead  | Co-lead | 
+| -----  | ----------- | ----------- | ----------- | 
+| 1  | Coordinating genomics, transcriptomics, and molecular markers      | Nayden Chakarov  | |
+| 2  | Incorporating molecular markers and morphology to assign wildlife malaria lineages to species   | Melanie Duc  | Ravinder Sehgal |
+| 3  | Vector transmission success in wildlife malaria     | Josue Martinez-de la Puente  |  Carolina Chagas |
+| 4  | Impact of anthropogenic activities and wildlife malaria on host haematology   | Swen Renner  | Diego Santiago |
+| 5  | Drivers of spatiotemporal variation in multi-host-parasite communities      | Kasun Bodawatta  | Daliborka Stankovic |
+| 6  | Coordinating and implementing the CBOs   | Martina Ferraguti  | |
