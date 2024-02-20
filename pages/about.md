@@ -22,4 +22,4 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 | 3  | Vector transmission success in wildlife malaria     | Josue Martinez-de la Puente  |  Carolina Chagas |
 | 4  | Impact of anthropogenic activities and wildlife malaria on host haematology   | Swen Renner  | Diego Santiago |
 | 5  | Drivers of spatiotemporal variation in multi-host-parasite communities      | Kasun Bodawatta  | Daliborka Stankovic |
-| 6  | Coordinating and implementing the CBOs   | Martina Ferraguti  | |
+| 6  | Coordinating and implementing the CBOs   | Martina Ferraguti  | Rafael Gutierrez |
