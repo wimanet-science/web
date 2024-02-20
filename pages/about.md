@@ -14,6 +14,7 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - This Action will bring together individuals and research groups to focus on coordinating research objectives to which multiple groups can contribute existing datasets, meaning that questions can be addressed at a global, rather than a local or regional, scale. Coordinating and sharing research efforts between groups offers huge potential for large-scale collaborative research initiatives. 
 - This Action will promote the development of a common research agenda by providing opportunities for training, collaboration and knowledge exchange, targeting diverse researchers across disciplines to foster an interdisciplinary approach, whilst also recruiting and supporting a diversity of new researchers. 
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
+<br/><br/>
 
 | #  | Working groups      | Lead  | Co-lead | 
 | -----  | ----------- | ----------- | ----------- | 
