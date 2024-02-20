@@ -18,7 +18,7 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 
 | #  | Working groups      | Lead  | Co-lead | 
 | -----  | ----------- | ----------- | ----------- | 
-| 1  | Coordinating genomics, transcriptomics, and molecular markers      | Nayden Chakarov  | Luz Garcia-Longoria, Ricardo Lopes  |
+| 1  | Coordinating genomics, transcriptomics, and molecular markers      | Nayden Chakarov  | Luz Garcia-Longoria, Ricardo Jorge Lopes  |
 | 2  | Incorporating molecular markers and morphology to assign wildlife malaria lineages to species   | Melanie Duc  | Ravinder Sehgal |
 | 3  | Vector transmission success in wildlife malaria     | Josue Martinez-de la Puente  |  Carolina Chagas |
 | 4  | Impact of anthropogenic activities and wildlife malaria on host haematology   | Swen Renner  | Diego Santiago |
