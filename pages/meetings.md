@@ -7,7 +7,7 @@ toc: true
 
 ## Upcoming
 
-- First summerschool, Mohleno field station, Czechia, 1st – 5th September 2024
+- First wildlife malaria summer school, Mohleno field station, Czechia, 1st – 5th September 2024
 
 ## 2024
 
