@@ -5,6 +5,10 @@ permalink: /meetings/
 toc: true
 ---
 
+## Upcoming
+
+- First summerschool, Mohleno field station, Czechia, 1st – 5th September 2024
+
 ## 2024
 
 - Second action workshop (hybrid), Cluj-Napoca, Romania, 20th – 23rd February
