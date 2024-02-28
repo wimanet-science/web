@@ -1,6 +1,6 @@
 # WIMANET project website
 
-This repository contains the source files for the [WIMANET website](https://tavimalara.github.io/wimanet/).
+This repository contains the source files for the [WIMANET website](https://wimanet-science.github.io/web/).
 
 ## Usage
 
@@ -20,7 +20,7 @@ The repository structure follows that of Jekyll websites.
 
 ## Contributors
 
-[List of contributors](https://github.com/tavimalara/wimanet/contributors)
+[List of contributors](https://github.com/wimanet-science/wimanet/contributors)
 
 ## License
 
