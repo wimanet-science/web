@@ -33,3 +33,7 @@ The applications will be ranked by the Core Group based on:
 * benefit and contribution to the development of the COST Action
   
 The selection will follow the COST policies on inclusiveness (gender, age, geography). The final ranking will be approved by the Action Chair and Co-Chair.
+All researchers who applied to the call will be informed of the outcome of their application by **19th April 2024**.
+
+**The selected researchers should wait for the official invitation from the Grant Holder before booking any travel arrangements.**
+Please direct any further questions to the [WIMANET email](wimanet.science@gmail.com).
