@@ -38,6 +38,7 @@
   role: Working group leader WG1 # Will appear next to name
   image: assets/theme/images/naycha.jpg # Can be external link
   description: Nayden is an avid (and occasionally desperate) field biologist, keen on finding and understanding animals (mostly birds) whatever they do and wherever they go. This is a slippery slope, which leads him up trees, through diverse ecological interactions, into the blood and down to molecular genomics, metabolites and single-cell interactions. Digs particularly Leucocytozoon.
+  email: nayden.chakarov@uni-bielefeld.de
   
 - name: Melanie Duc
   role: Working group leader WG2  # Will appear next to name
