@@ -16,4 +16,4 @@ This boosts their research, career and innovation.<br/>
 [www.cost.eu](www.cost.eu).
 <br/><br/>
 
-## News from the project:
+## Latest activities in the project:
