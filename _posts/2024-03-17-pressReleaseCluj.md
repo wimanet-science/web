@@ -22,6 +22,6 @@ WG6: What strategies prove effective for sharing and publicizing the network fin
 ## What’s next?
 One of WIMANET’s primary objectives is to empower and train young and early-career researchers the essential skills required for wildlife parasitology research. In line with this commitment, the WIMANET will be organizing a series of short scientific stays and training schools aimed at teaching young researchers the methods used to study vector-borne parasites. Additionally, the network will work on developing standardized protocols for field, laboratory, and bioinformatic analyses. The announcement for the first summer training school this year will be coming soon, and all early career researchers interested will be warmly invited to apply and participate in these inspiring events.
 
-Download the pressrelease as a PDF here
-For staying tuned for updates and upcoming activities  as well as for any of your inquiries, please sign into our Newsletter, or visit our website at: https://wimanet-science.github.io/web/
+Download the pressrelease as a PDF [here](https://github.com/wimanet-science/web/blob/401c3977751f7e7e0f676dd8012d1a0d0bd84d16/assets/docs/WIMANET%20workshop%202nd%20Press%20Release.docx.pdf).
+For staying tuned for updates and upcoming activities as well as for any of your inquiries, please sign into our Newsletter [here](https://wimanet-science.github.io/web/contact/).
 
