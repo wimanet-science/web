@@ -1,7 +1,7 @@
 ---
 title: Press release about WIMANET workshop in Cluj-Napoca
 description: |
-background: /assets/theme/images/fieldnotes.JPG
+background: /assets/theme/images/cluj.JPG
 author: Martina Ferraguti
 tags: [media]
 comments: true
