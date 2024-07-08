@@ -5,15 +5,15 @@
 columns:
   - description:
     links:
-    - text: The University of Lincoln
-      href: https://www.lincoln.ac.uk/
+    - text: Keele University
+      href: https://www.keele.ac.uk
       new_window: true
-    - text: The COST (European Cooperation in Science and Technology) association
+    - text: COST (European Cooperation in Science and Technology) association
       href: https://www.cost.eu/
       new_window: true
 
   - description: This networking project is funded through the [COST Action CA22108 - Wildlife Malaria Network (WIMANET)](https://www.cost.eu/actions/CA22108/).
-      This project is made with ❤ for open source.
+      This project is made with 💚 for open source.
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
