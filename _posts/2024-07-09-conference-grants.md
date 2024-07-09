@@ -1,5 +1,5 @@
 ---
-title: WIMANET conference grants
+title: WIMANET dissemination conference grants
 description: Call for funding to present Action work at conferences
 background: /assets/theme/images/conference_dreamstime_xxl_186174594~2.jpg
 author: Jenny Dunn
