@@ -7,7 +7,7 @@ tags: [funding]
 comments: true
 ---
 
-## What are dissemnation conference grants?
+## What are dissemination conference grants?
 Dissemination Conference Grants support the participation of Action participants to present the work of the Action at conferences that are NOT organized or co-organized by the COST Action. Thereby these grants will help increase the visibility of the Action in the research community, and also contribute to increasing visibility of the presenter. Moreover, it will attract additional participants and stakeholders on topics relevant to the Action.
 
 ## What can be funded?
