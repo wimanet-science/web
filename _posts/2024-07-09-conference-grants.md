@@ -1,7 +1,7 @@
 ---
 title: WIMANET conference grants
 description: Call for funding to present Action work at conferences
-background: assets/theme/images/conference_dreamstime_xxl_56293863.jpg
+background: /assets/theme/images/conference_dreamstime_xxl_56293863.jpg
 author: Jenny Dunn
 tags: [funding]
 comments: true
