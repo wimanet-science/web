@@ -6,11 +6,13 @@ permalink: /contact/
 ---
 
 <h3 style="display: inline;">Write us an e-mail:</h3>
-<p style="display: inline;">wimanet.science (at) gmail (dot) com</p>
+<p style="display: inline;">wimanet.science (at) gmail (dot) com</p><br>
+<br>
 
 <h3 style="display: inline;">Become a member of WIMANET:</h3>
 <a href="https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership" target="_blank">
-<p style="display: inline;">Click here!</p>
+<p style="display: inline;">Click here!</p><br>
+<br>
 
 <h3 style="display: inline;">Follow us on social media:</h3>
 <a href="https://x.com/WIMANETscience" target="_blank">
