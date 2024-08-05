@@ -5,19 +5,18 @@ background: /assets/theme/images/grw_straight.jpg
 permalink: /contact/
 ---
 
-## Do you have a question? Write us an e-mail to: 
+## Write us an e-mail: 
 
 wimanet.science (at) gmail (dot) com
 
 
-## Are you a researcher and want to join WIMANET. Become a member of our COST Action: 
+## Become a member of our COST Action: 
 
 Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership)!
 
 
 ## Follow us on social media: 
-[<img src="../assets/theme/images/xlogo.png" width="30" height="30">](https://x.com/WIMANETscience)
-[<img src="../assets/theme/images/instalogo.png" width="30" height="30">](https://www.instagram.com/wimanetscience/)
+[<img src="../assets/theme/images/xlogo.png" width="30" height="30">](https://x.com/WIMANETscience) [<img src="../assets/theme/images/instalogo.png" width="30" height="30">](https://www.instagram.com/wimanetscience/)
 
 
 ## Or subscribe to our newsletter: 
