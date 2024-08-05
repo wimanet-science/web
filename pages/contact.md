@@ -8,13 +8,17 @@ permalink: /contact/
 <h3 style="display: inline;">Write us an e-mail:</h3>
 <p style="display: inline;">wimanet.science (at) gmail (dot) com</p>
 
-### Become a member of WIMANET: 
-Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership)!
+<h3 style="display: inline;">Become a member of WIMANET:</h3>
+<a href="https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership" target="_blank">
+<p style="display: inline;">Click here!</p>
 
-### Follow us on social media: 
-[<img align="left" width="30" height="30" src="../assets/theme/images/xlogo.png">](https://x.com/WIMANETscience) [<img align="left" width="30" height="30" src="../assets/theme/images/instalogo.png">](https://www.instagram.com/wimanetscience/)<br>
+<h3 style="display: inline;">Follow us on social media:</h3>
+<a href="https://x.com/WIMANETscience" target="_blank">
+      <img align="left" width="30" height="30" src="../assets/theme/images/xlogo.png">
+<a href="../assets/theme/images/instalogo.png" target="_blank">
+      <img align="left" width="30" height="30" src="../assets/theme/images/instalogo.png"><br>
 <br>
-
+      
 ### Or subscribe to our newsletter: 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
