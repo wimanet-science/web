@@ -5,14 +5,15 @@ background: /assets/theme/images/grw_straight.jpg
 permalink: /contact/
 ---
 
-### Write us an e-mail: 
-wimanet.science (at) gmail (dot) com
+<h3 style="display: inline;">Write us an e-mail:</h3>
+<p style="display: inline;">wimanet.science (at) gmail (dot) com</p>
 
 ### Become a member of WIMANET: 
 Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership)!
 
 ### Follow us on social media: 
 [<img align="left" width="30" height="30" src="../assets/theme/images/xlogo.png">](https://x.com/WIMANETscience) [<img align="left" width="30" height="30" src="../assets/theme/images/instalogo.png">](https://www.instagram.com/wimanetscience/)<br>
+<br>
 
 ### Or subscribe to our newsletter: 
 <div id="mc_embed_shell">
