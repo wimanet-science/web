@@ -10,7 +10,7 @@ permalink: /contact/
 wimanet.science (at) gmail (dot) com
 
 
-## Become a member of our COST Action: 
+## Become a member of WIMANET: 
 
 Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership)!
 
