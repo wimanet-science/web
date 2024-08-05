@@ -16,7 +16,10 @@ Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20a
 
 
 ## Follow us on social media: 
-[<img src="../assets/theme/images/xlogo.png" width="30" height="30">](https://x.com/WIMANETscience) [<img src="../assets/theme/images/instalogo.png" width="30" height="30">](https://www.instagram.com/wimanetscience/)
+
+[<img src="../assets/theme/images/xlogo.png" width="30" height="30" align="left">](https://x.com/WIMANETscience)
+
+[<img src="../assets/theme/images/instalogo.png" width="30" height="30" align="left">](https://www.instagram.com/wimanetscience/)
 
 
 ## Or subscribe to our newsletter: 
