@@ -6,8 +6,6 @@ background: /assets/theme/images/MerApi_para.png
 permalink: /
 ---
 
-## Welcome to the website of the COST Action WIMANET: 
-<br/><br/>
 [![costeu](../assets/theme/images/COST_logo_corr.png)](https://www.cost.eu/actions/CA22108/)
 <br/><br/>
 COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. 
