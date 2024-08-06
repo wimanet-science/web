@@ -12,7 +12,8 @@ wimanet.science (at) gmail (dot) com
 Click [here](https://www.cost.eu/actions/CA22108/#tabs+Name:Working%20Groups%20and%20Membership)!
 
 ### Follow us on social media: 
-[<img align="left" width="30" height="30" src="../assets/theme/images/xlogo.png" style="padding-right: 5px;">](https://x.com/WIMANETscience)      [<img align="left" width="30" height="30" src="../assets/theme/images/instalogo.png">](https://www.instagram.com/wimanetscience/)<br>
+[<img align="left" width="40" height="40" src="../assets/theme/images/xlogo.png" style="padding-right: 5px;">](https://x.com/WIMANETscience)
+[<img align="left" width="30" height="30" src="../assets/theme/images/instalogo.png" style="padding-right: 5px;">](https://www.instagram.com/wimanetscience/)<br>
 
 <br>
       
