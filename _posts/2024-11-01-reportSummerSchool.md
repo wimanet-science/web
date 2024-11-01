@@ -15,12 +15,15 @@ The scope of the school was broad and covered various aspects of biology of bloo
 <br/><br/>
 
 <div class="ratio ratio-16x9 mb-3" width="220" align="right" >
-<iframe src="https://youtu.be/7hU7ZZm7q2g" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7hU7ZZm7q2g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The Summer School location was optimal for catching the birds and insects, and some individuals were even found infected by blood parasites. Moreover, the new samples were nicely complemented by representative samples of parasites and vectors kindly brought by the teachers. On the other hand, the Summer School lectures and practices required a large amount of material and instruments (including for example microscopes) that had to be transported to the field station. Luckily thanks to the cooperation of the local organisers, teachers, and a brave bus driver the challenge was fearlessly faced, and all necessary equipment was successfully collected and transported.  The local restaurant U Staňků in the nearby town Mohelno showed a perfect service and provided lunches based on the local tradition of Czech village cooking. The first days of September were surprisingly sunny and warm which resulted in nice swims in the former mill race filled with cold deep water.  Obviously, the standard was set rather high for the organisers of the next WIMANET Summer Schools. Luckily a strong team from Lithuania is willing to continue and organise the next Summer School, which will be more specialised and targeting microscopy techniques. 
 <br/>
 The local Summer School organisation was based on a long-term cooperation of the Faculty of Science of the Charles University and the Institute of Vertebrate Biology of the Czech Academy of Science, who enjoy organising shared teaching and scientific projects. However, the Summer School organisation and smooth running would not be possible without the international cooperation of the extraordinary friendly and helpful community of people interested in wildlife malaria.
 <br/>
+
+ <embed src="https://github.com/wimanet-science/web/blob/c8b9c42f76f70382499fcea0a84dfb47daf0a86e/assets/docs/SummerSchoolBooklet.pdf" width="600px" height="500px" />
+
 All resources from the summer school can be found [here](https://drive.google.com/drive/folders/1Z4mX88XdPmVTv48h8kUKYwuszXPGkblC?usp=share_link).
 
