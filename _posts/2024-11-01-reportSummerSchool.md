@@ -15,7 +15,7 @@ The beginning of September is usually associated with the new primary school yea
 The scope of the school was broad and covered various aspects of biology of blood parasites and their insect vectors. Excellent talks of teachers were followed by hands-on lectures where students obtained and practiced new skills. The teachers disseminated a wide range of practical and theoretical knowledge from bird catching, parasite detection in blood smears, catching, dissection and identification of insect vectors, to handling of parasite DNA sequences and whole parasite-host community analyses. After the training, students worked in small groups on individual problems that were inspired by the real scientific projects of teachers. The training was obviously successful – students swiftly and flawlessly solved all the problems. 
 <br/><br/>
 
-![summerschool1](../assets/theme/images/2024-Summer_school1.jpg)
+<img alt="summerschool1" src="../assets/theme/images/2024-Summer_school1.png" style="position: relative;">
 Bird catching and identification course; haemosporidian research histolory lecture; Welcome speach; microsocpy training.
 <br/><br/>
 
