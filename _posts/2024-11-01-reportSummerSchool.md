@@ -19,7 +19,7 @@ The scope of the school was broad and covered various aspects of biology of bloo
 Bird catching and identification course; haemosporidian research histolory lecture; Welcome speach; microsocpy training.
 <br/><br/>
 
-![summerschool2](../assets/theme/images/2024-Summer_school2.jpg)
+![summerschool2](/../assets/theme/images/2024-Summer_school2.jpg)
 Insects trapping; students projects; biting midges (vectors) collected during the Summer school; parasites and haematology microscopy.
 <br/><br/>
 
