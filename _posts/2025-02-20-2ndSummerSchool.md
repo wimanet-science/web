@@ -19,9 +19,9 @@ The call for applications for the Wildlife Malaria Network Summer School Grants 
 
 ## About the application process
 Applications are open to participants from EU and non-EU countries interested in learning techniques to work with wildlife malaria parasites. Applicants must have an **eCOST profile** and have applied to be a **member of WIMANET** in order for their application to be approved. You can apply to join WIMANET [here](https://www.cost.eu/actions/CA22108).
-Applicants from EU and non-EU countries are welcome. Only EU applicants can be funded by COST. Non-EU applicants can attend to the summer school using their own funds. More about the geographical restrictions on funded places according to COST funding rules can be found in the [Annotated Rules for COST Actions](mailto:https://www.cost.eu/uploads/2023/11/COST-094-21-Annotated-Rules-for-COST-Actions-Level-CV1.4-Final-.pdf). All teaching materials will be available through the WIMANET website after the course has concluded.
+Applicants from EU and non-EU countries are welcome. Only EU applicants can be funded by COST. Non-EU applicants can attend to the summer school using their own funds. More about the geographical restrictions on funded places according to COST funding rules can be found in the [Annotated Rules for COST Actions](https://www.cost.eu/uploads/2025/02/COST-094-21-V2.0-Annotated-Rules-for-COST-Actions-Level-C.pdf). All teaching materials will be available through the WIMANET website after the course has concluded.
 
-Applications must be e-mailed to [to the Grant Awarding Coordinator and WIMANET](mailto:alexandra.corduneanu@usamvcluj.ro;wimanet.science@gmail.com).
+Applications must be e-mailed to [to the Grant Awarding Coordinator (alexandra.corduneanu@usamvcluj.ro) and WIMANET(wimanet.science@gmail.com)](mailto:alexandra.corduneanu@usamvcluj.ro;wimanet.science@gmail.com).
 
 The application consists of the following documents:
 * a **motivation letter** detailing the benefits for the applicant and relevance of the training school to current research,
