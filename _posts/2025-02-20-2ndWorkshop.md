@@ -20,7 +20,7 @@ More about the geographical restrictions according to COST funding rules, and mo
 Applications must be e-mailed to [the Grant Awarding Coordinator and WIMANET](mailto:alexandra.corduneanu@usamvcluj.ro;wimanet.science@gmail.com).
 
 The application consists of the following documents:
-* Fill the **form** with the required information, including the budget, which consists of an anticipated travel budget in Euros (costs of long-distance (>100 km) transport to Vilnius, Lithuania, and travel insurance). Short-distance travel, accommodation and food can be covered by a daily allowance.
+* Fill the **application form** (downloadable [here](https://docs.google.com/document/d/1Sdbtb69kbnJ33WrPvOCYIt5EWHUXqL7r/edit?usp=sharing&ouid=103494768894256442292&rtpof=true&sd=true)) with the required information, including the **budget**, which consists of an anticipated travel budget in Euros (costs of long-distance (>100 km) transport to Vilnius, Lithuania, and travel insurance). Short-distance travel, accommodation and food can be covered by a daily allowance.
 * a **CV**, including a list of academic publications if applicable.
 
 The applications will be ranked by the Core Group based on:
