@@ -11,10 +11,15 @@
   - text: WG1 Genomics and molecular markers
     href: /wg1/
   - text: WG2 Molecular lineages and morphospecies
+    href: /wg2/
   - text: WG3 Vectors and transmission
+    href: /wg3/
   - text: WG4 Impact on host haematology
+    href: /wg4/
   - text: WG5 Multi host-parasite communities 
+    href: /wg5/
   - text: WG6 Communication and dissemination
+    href: /wg6/
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
   - text: Meetings
