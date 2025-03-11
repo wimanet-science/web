@@ -22,9 +22,9 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 
 | #  | Working groups      | Lead  | Co-lead | 
 | -----  | ----------- | ----------- | ----------- | 
-| 1  | Coordinating genomics, transcriptomics, and molecular markers      | Nayden Chakarov  | Luz Garcia-Longoria, Ricardo Jorge Lopes  |
-| 2  | Incorporating molecular markers and morphology to assign wildlife malaria lineages to species   | Melanie Duc  | Ravinder Sehgal |
-| 3  | Vector transmission success in wildlife malaria     | Josue Martinez-de la Puente  |  Carolina Chagas |
-| 4  | Impact of anthropogenic activities and wildlife malaria on host haematology   | Swen Renner  | Diego Santiago |
-| 5  | Drivers of spatiotemporal variation in multi-host-parasite communities      | Kasun Bodawatta  | Daliborka Stankovic |
-| 6  | Coordinating and implementing the CBOs   | Martina Ferraguti  | Rafael Gutierrez |
+| 1  | [Coordinating genomics, transcriptomics, and molecular markers](https://wimanet-science.github.io/web/wg1/)      | [Nayden Chakarov](https://wimanet-science.github.io/web/team/#Nayden+Chakarov)  | Luz Garcia-Longoria, Ricardo Jorge Lopes  |
+| 2  | [Incorporating molecular markers and morphology to assign wildlife malaria lineages to species](https://wimanet-science.github.io/web/wg2/)   | [Melanie Duc](https://wimanet-science.github.io/web/team/#Melanie+Duc)  | Ravinder Sehgal |
+| 3  | [Vector transmission success in wildlife malaria](https://wimanet-science.github.io/web/wg3/)     | [Josue Martinez-de la Puente](https://wimanet-science.github.io/web/team/#Josue+Martinez-de+la+Puente)  |  Carolina Chagas |
+| 4  | [Impact of anthropogenic activities and wildlife malaria on host haematology](https://wimanet-science.github.io/web/wg4/)   | [Swen Renner](https://wimanet-science.github.io/web/team/#Swen+Renner)  | Diego Santiago |
+| 5  | [Drivers of spatiotemporal variation in multi-host-parasite communities](https://wimanet-science.github.io/web/wg5/)      | [Kasun Bodawatta](https://wimanet-science.github.io/web/team/#Kasun+H.+Bodawatta)  | Daliborka Stankovic |
+| 6  | [Coordinating and implementing the CBOs](https://wimanet-science.github.io/web/wg6/)   | [Martina Ferraguti](https://wimanet-science.github.io/web/team/#Martina+Ferraguti)  | Rafael Gutierrez |
