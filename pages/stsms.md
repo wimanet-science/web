@@ -13,7 +13,8 @@ Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denm
 <br>
 An anecdote?<br>
 Dr. Bodawatta was very welcoming and thoughtful. One of the most memorable moments was when he brought me a croissant as a welcome gift, as I had told him I love pastries. I thought it was a very nice gesture and the best welcome. I also had the pleasure of attending a lab meeting and spending a few days doing field work with his group, which was a very valuable experience.<br>
-___
+<br>
+<br>
 <br>
 
 ### Luca Ilahiane
@@ -22,7 +23,8 @@ Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perfor
 <br>
 Your expectations?<br>
 In just one month of stay, all 388 samples were fully screened for all parasites, and the infected ones were sequenced. This provided interesting new data on host-parasite relationships in heavily urbanized environments.<br>
-***
+<br>
+<br>
 <br>
 
 ### Attila Sándor 
@@ -31,7 +33,8 @@ Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre fo
 <br>
 Your expectations?<br>
 The results of the STSM are the jointly approved and enhanced set of highly standardized procedures for simultaneous data collection for the impact of hibernation (or lack of hibernation) on malaria-clearance in bent-winged bats, which will constitute the base for an experimental study in the near future. The techniques were tested and repeated in three successive setting at three different bent-winged bat colonies in N, C and SE Portugal (Tamar/Nabao, Mira Moura and Montemor-o-Novo), both at natural (caves), as well anthropogenic roosts (mine shafts). The participants from Portugal (2 persons from the University and 3 persons from local groups at Porto and Montemor) were familiarized with techniques of bat capture as well blood and ectoparasite collection intended for malaria surveys.<br>
----
+<br>
+<br>
 <br>
 
 ### Alexandra Corduneanu 
