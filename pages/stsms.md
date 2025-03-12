@@ -5,7 +5,7 @@ permalink: /stsms/
 toc: true
 ---
 
-## 2024
+<!-- ## 2024 -->
 
 ### Irène Hernández Caballero 
 <img alt="logo" src="../assets/theme/images/irene.jpg" width="220" align="right" style="position: relative;">
