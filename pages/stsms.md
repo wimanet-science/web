@@ -8,25 +8,25 @@ toc: true
 ## STSMs in 2024
 
 ### Irène Hernández Caballero 
-<img alt="logo" src="../assets/theme/images/irene.jpg" width="300" align="right" style="position: relative; padding:20px;">
+<img alt="logo" src="../assets/theme/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denmark to analyze uropygialmicrobiome samples from house sparrows infected with avian malaria.<br>
 <br>
 An anecdote?<br>
 Dr. Bodawatta was very welcoming and thoughtful. One of the most memorable moments was when he brought me a croissant as a welcome gift, as I had told him I love pastries. I thought it was a very nice gesture and the best welcome. I also had the pleasure of attending a lab meeting and spending a few days doing field work with his group, which was a very valuable experience.<br>
----
+___
 <br>
 
 ### Luca Ilahiane
-<img alt="logo" src="../assets/theme/images/luca.jpg" width="300" align="right" style="position: relative; padding:20px;">
+<img alt="logo" src="../assets/theme/images/luca.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perform sample screening for parasite occurrence in avian samples, collected as part of a broader study investigating the effects of urbanization on synanthropic and near-endemic species.<br>
 <br>
 Your expectations?<br>
 In just one month of stay, all 388 samples were fully screened for all parasites, and the infected ones were sequenced. This provided interesting new data on host-parasite relationships in heavily urbanized environments.<br>
----
+***
 <br>
 
 ### Attila Sándor 
-<img alt="logo" src="../assets/theme/images/attila.jpg" width="300" align="right" style="position: relative; padding:20px;">
+<img alt="logo" src="../assets/theme/images/attila.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre for Ecology, Evolution and Environmental Changes at the University of Lisbon, Portugal, to bridge research methodology and practical knowledge between two teams of bat researchers in order to set up a joint study in bat-malaria.<br>
 <br>
 Your expectations?<br>
@@ -35,7 +35,7 @@ The results of the STSM are the jointly approved and enhanced set of highly stan
 <br>
 
 ### Alexandra Corduneanu 
-<img alt="logo" src="../assets/theme/images/alexandra.jpg" width="300" align="right" style="position: relative; padding:20px;">
+<img alt="logo" src="../assets/theme/images/alexandra.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Alexandra Corduneanu from Romania visited Alejandro Cabezas-Cruz, PhD Principal Investigator UMR BIPAR (INRAE, Anses, EnvA), Paris, France to analyze the microbiome of bats associated with their parasites. The outcomes of this visit will contribute to a deeper understanding of bat-associated vector-borne pathogens in French Giana and Romania, aiding in the development of effective surveillance and management strategies. By elucidating the complex interactions between bats and their vector-borne pathogens, this study aimed to mitigate the risks posed by these diseases to both wildlife and human populations.<br>
 <br>
 An anecdote?<br>
