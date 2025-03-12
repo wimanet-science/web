@@ -1,5 +1,5 @@
 ---
-title: Short-term Scientific Missions (STSMs)
+title: Short-term Scientific Missions
 description: STSMs completed within WIMANET
 permalink: /stsms/
 toc: true
