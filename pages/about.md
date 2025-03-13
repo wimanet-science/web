@@ -20,7 +20,7 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - This Action will promote the development of a common research agenda by providing opportunities for training, collaboration and knowledge exchange, targeting diverse researchers across disciplines to foster an interdisciplinary approach, whilst also recruiting and supporting a diversity of new researchers. 
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 <br>
-<img alt="map" width="220" style="display: block; margin: auto;" src="../assets/theme/images/action-map.jpg">
+<img alt="map" width=50% style="display: block; margin: auto;" src="../assets/theme/images/action-map.jpg">
 <br>
 
 | #  | Working groups      | Lead  | Co-lead | 
