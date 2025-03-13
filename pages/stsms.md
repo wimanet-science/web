@@ -6,6 +6,7 @@ toc: true
 ---
 
 ## STSMs in 2024
+<br>
 
 ### Irène Hernández Caballero 
 <img alt="logo" src="../assets/theme/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
