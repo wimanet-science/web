@@ -22,8 +22,6 @@
     href: /wg6/
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
-  - text: Newsletter
-    href: /newsletter/
   - text: Meetings
     href: /meetings/
   - text: Protocols
@@ -32,6 +30,8 @@
     href: /stsms/
   - text: Publications
     href: /publications/
+  - text: Newsletter
+    href: /newsletter/
 - text: Activities
   href: /activities/
 - text: Contact
