@@ -20,8 +20,10 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - This Action will promote the development of a common research agenda by providing opportunities for training, collaboration and knowledge exchange, targeting diverse researchers across disciplines to foster an interdisciplinary approach, whilst also recruiting and supporting a diversity of new researchers. 
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 <br>
+<br>
 <img alt="map" width="99%" style="display: block; margin: auto;" src="../assets/theme/images/action-map.jpg">
 *Countries of origin of the members participating in WIMANET (from [https://doi.org/10.1016/j.ijppaw.2024.100989](https://doi.org/10.1016/j.ijppaw.2024.100989)).*
+<br>
 <br>
 
 | #  | Working groups      | Lead  | Co-lead | 
