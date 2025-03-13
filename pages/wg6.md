@@ -12,7 +12,6 @@ Working group 6 (WG6) coordinates and promotes the findings of WIMANET, ensuring
 | Ms Justė Aželytė |	Lithuania | 
 | Dr Mikas Ilgūnas |	Lithuania | 
 | Prof Rahman Nurkovic |	Bosnia & Herzegovina | 
-| Dr Sandrine Musa | Germany | 
 | Dr Tamer ALBAYRAK |	Türkiye | 
 | Dr Vaidas Palinauskas |	Lithuania | 
 | Dr Roland Wesolowski |	Poland | 
