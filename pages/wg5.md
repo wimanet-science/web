@@ -3,8 +3,9 @@ title: WIMANET working group 5
 description: Drivers of spatiotemporal variation in multi-host-parasite communities
 permalink: /wg5/
 ---
-<img alt="logo" src="../assets/theme/images/WG5.jpg" width="500" align="right" style="position: relative; padding-left:20px;">
 Working group 5 (WG5) investigates the biotic and abiotic factors that shape host-malaria interactions across different vertebrate host groups. The group is focusing on community-level studies of hosts and their malaria parasites, with plans to broaden their research to include not just birds but also reptiles, amphibians, and mammals. WG5 has identified key research questions, such as how biotic and abiotic factors affect host-parasite network structures and how these parameters influence parasite specialisations and host switching events. To start, the group is currently gathering published datasets to create a community-level host-parasite database. This database will then be used to answer group's focal questions and to create standardized protocols for collecting samples from multi-host-parasite communities.
+<br>
+<img alt="logo" src="../assets/theme/images/WG5.jpg" width="99%" style="position: relative; padding-left:20px;">
 
 | WG5 member  | Country |
 | -----  | ----------- |
