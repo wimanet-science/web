@@ -118,5 +118,4 @@ Working group 4 (WG4) examines how human activities and haemosporidian infection
 |	Prof MEHMET BAKIR	|	Türkiye	|
 |	Dr Katlego Kgabo Mashiane	|	South Africa	|
 |	Dr Marcela Suarez-Rubio	|	Austria	|
-![image](https://github.com/user-attachments/assets/984f800c-b14f-428a-b68c-ee76e16f4de7)
 
