@@ -5,6 +5,8 @@ permalink: /newsletter/
 toc: true
 ---
 
+Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web/contact/)!
+
 ## 2025
 03/12 WIMANEWS 11: [Registration extended! STSMs 2024, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=e24c8d472d)<br>
 02/03 WIMANEWS 10: [Summer school & Workshop 2025, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=7aeb0b7961)<br>
