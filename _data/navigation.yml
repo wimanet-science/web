@@ -22,14 +22,14 @@
     href: /wg6/
 - text: Outputs
   menu: # Dropdown menu (one level deep only)
+  - text: Publications
+    href: /publications/
   - text: Meetings
     href: /meetings/
   - text: Protocols
     #href: /protocols/
   - text: Short-term scientific missions (STSMs)
     href: /stsms/
-  - text: Publications
-    href: /publications/
   - text: Newsletter
     href: /newsletter/
 - text: Activities
