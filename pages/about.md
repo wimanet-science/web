@@ -21,6 +21,7 @@ Vector-borne diseases, and emerging infectious diseases of wildlife, are major c
 - The Action will target stakeholders, policymakers and the general public to endorse knowledge transfer and maximise the reach of the network.
 <br>
 <img alt="map" width=50% style="display: block; margin: auto;" src="../assets/theme/images/action-map.jpg">
+*Countries of origin of the members participating in WIMANET (from [https://doi.org/10.1016/j.ijppaw.2024.100989](https://doi.org/10.1016/j.ijppaw.2024.100989)).*
 <br>
 
 | #  | Working groups      | Lead  | Co-lead | 
