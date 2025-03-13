@@ -10,10 +10,10 @@ permalink: /about/
 <img alt="logo" src="../assets/theme/images/logo-big.png" width="220" align="right" style="position: relative; top: -27px;">
 Vector-borne diseases, and emerging infectious diseases of wildlife, are major contributors to the global disease burden and of increasing concern globally. Haemosporidian parasites are ubiquitous in nature, hugely diverse, and associated with morbidity and mortality across taxa, including humans, livestock and wildlife. Many research groups globally focus on these parasites as model systems for addressing a broad range of ecological and evolutionary questions with economic and health implications. 
 <br>
-<br>
 <div class="ratio ratio-16x9 mb-3" width="220" align="right" >
 <iframe src="https://www.youtube.com/embed/zmbeq6P09CQ" frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
 ### Aims
 - This Action will bring together individuals and research groups to focus on coordinating research objectives to which multiple groups can contribute existing datasets, meaning that questions can be addressed at a global, rather than a local or regional, scale. Coordinating and sharing research efforts between groups offers huge potential for large-scale collaborative research initiatives. 
