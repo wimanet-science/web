@@ -11,7 +11,7 @@ In the two-day online course, a total of 28 registered participants engaged in  
 <br>
 <br>
 Here an insight into the comprehensive course program:
-<img alt="program" width="75%" style="display: block; margin: auto;" src="https://github.com/wimanet-science/web/blob/d041f1045cebd60eb7ac765180448bdd63094708/assets/theme/images/WG1courseprogram.jpg">
+![img](https://github.com/wimanet-science/web/blob/d041f1045cebd60eb7ac765180448bdd63094708/assets/theme/images/WG1courseprogram.jpg){:.d-inline .w-100}
 <br>
 <br>
 By the end of the course, participants were providing the following feedback:
