@@ -10,7 +10,7 @@ comments: true
 In the two-day online course, a total of 28 registered participants engaged in  theoretical sessions and practical exercises focusing on Next-Generation Sequencing (NGS) technologies, DNA template preparation, and bioinformatics pipelines. The expert instructors Ricardo Jorge Lopes, Luz Garcia-Longoria Batanete and Nayden Chakarov of [WIMANET working group 1](https://wimanet-science.github.io/web/wg1/) provided support in hands-on exercises, and particularly also providing troubleshooting for problems that can occur when working with malaria parasite.
 <br>
 <br>
-Here is the comprehensive course program:
+Here an insight into the comprehensive course program:
 <img alt="program" width="99%" style="display: block; margin: auto;" src="../assets/theme/images/WG1courseprogram.jpg">
 <br>
 <br>
