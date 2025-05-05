@@ -3,6 +3,7 @@ title: WIMANET working group 1
 description: Coordinating genomics, transcriptomics, and molecular markers
 permalink: /wg1/
 ---
+<img alt="logo" src="../assets/theme/images/wg1.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Working group 1 (WG1) is dedicated to advancing wildlife malaria research by identifying crucial molecular markers for genomic and transcriptomic studies. To support this effort, the group is conducting an extensive review of analytical methods, including such applicable for genome sequencing and resequencing, RNA sequencing (RNA-seq) and single-cell sequencing. A key objective is to establish mutually complementing protocols and enhance accessibility through training initiatives. The team will compile and assess existing techniques for studying intracellular parasites, addressing both their limitations and the potential of state-of-the-art omics techniques. Furthermore, WG1 launches training programs, some in online formats, to equip researchers with basic bioinformatics skills for genomic data analysis.
 
 | WG1 member | Country  |
