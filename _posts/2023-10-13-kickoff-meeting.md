@@ -1,7 +1,7 @@
 ---
 title: WIMANET online kick-off meeting
 description: The first meeting of the WIMANET management committee held online 28/09/2023.
-background: /assets/theme/images/MCmeetingWIMANET.jpg
+background: /assets/images/MCmeetingWIMANET.jpg
 author: [Tamara Emmenegger]
 tags: [meetings]
 ---

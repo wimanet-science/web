@@ -1,7 +1,7 @@
 ---
 title: Publication about WIMANET
 description: The Power of a Network in Wildlife Malaria Research
-background: /assets/theme/images/fieldnotes.JPG
+background: /assets/images/fieldnotes.JPG
 author: Tamara Emmenegger
 tags: [publication]
 comments: true

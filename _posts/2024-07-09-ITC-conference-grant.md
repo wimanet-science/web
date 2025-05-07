@@ -1,7 +1,7 @@
 ---
 title: WIMANET conference grants (ITC)
 description: Call for funding to young researhers from target countries
-background: /assets/theme/images/conference_dreamstime_xxl_56293863~2.jpg
+background: /assets/images/conference_dreamstime_xxl_56293863~2.jpg
 author: Alexandra Corduneanu & Jenny Dunn
 tags: [funding]
 comments: true

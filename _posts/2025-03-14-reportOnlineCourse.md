@@ -1,7 +1,7 @@
 ---
 title: Report from the NGS and bioinformatics course 
 description: Short report and participant feedback to the online course organised by WG1 of WIMANET
-background: /assets/theme/images/WG1coursegroup1.jpg
+background: /assets/images/WG1coursegroup1.jpg
 author: Luz Garcia-Longoria
 tags: [report]
 comments: true

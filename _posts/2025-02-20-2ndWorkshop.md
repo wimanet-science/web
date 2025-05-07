@@ -1,7 +1,7 @@
 ---
 title: Funding for WIMANET Workshop
 description: Open call for funding to join the 2nd WIMANET workshop
-background: assets/theme/images/wimanet-presi.jpg
+background: /assets/images/wimanet-presi.jpg
 author: Jenny Dunn
 tags: [funding]
 comments: true

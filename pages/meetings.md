@@ -1,6 +1,6 @@
 ---
 title: Meetings
-background: /assets/theme/images/grw_straight.jpg
+background: /assets/images/grw_straight.jpg
 permalink: /meetings/
 toc: true
 ---

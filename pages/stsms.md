@@ -9,7 +9,6 @@ toc: true
 <br>
 
 ### Irène Hernández Caballero 
-<img alt="logo" src="../assets/theme/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denmark to analyze uropygialmicrobiome samples from house sparrows infected with avian malaria.<br>
 <br>
 An anecdote?<br>
@@ -18,8 +17,9 @@ _"Dr. Bodawatta was very welcoming and thoughtful. One of the most memorable mom
 <br>
 <br>
 
+<img alt="logo" src="../assets/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+
 ### Luca Ilahiane
-<img alt="logo" src="../assets/theme/images/luca.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perform sample screening for parasite occurrence in avian samples, collected as part of a broader study investigating the effects of urbanization on synanthropic and near-endemic species.<br>
 <br>
 Your expectations?<br>
@@ -28,8 +28,6 @@ _"In just one month of stay, all 388 samples were fully screened for all parasit
 <br>
 <br>
 
-### Attila Sándor 
-<img alt="logo" src="../assets/theme/images/attila.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre for Ecology, Evolution and Environmental Changes at the University of Lisbon, Portugal, to bridge research methodology and practical knowledge between two teams of bat researchers in order to set up a joint study in bat-malaria.<br>
 <br>
 Your expectations?<br>
@@ -38,11 +36,16 @@ _"The results of the STSM are the jointly approved and enhanced set of highly st
 <br>
 <br>
 
-### Alexandra Corduneanu 
-<img alt="logo" src="../assets/theme/images/alexandra.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 Alexandra Corduneanu from Romania visited Alejandro Cabezas-Cruz, PhD Principal Investigator UMR BIPAR (INRAE, Anses, EnvA), Paris, France to analyze the microbiome of bats associated with their parasites. The outcomes of this visit will contribute to a deeper understanding of bat-associated vector-borne pathogens in French Giana and Romania, aiding in the development of effective surveillance and management strategies. By elucidating the complex interactions between bats and their vector-borne pathogens, this study aimed to mitigate the risks posed by these diseases to both wildlife and human populations.<br>
 <br>
 An anecdote?<br>
 _"During my time at UMR-BIPAR ANSES in Paris, I spent countless hours in the lab carefully analyzing samples collected from bats. One afternoon, while discussing preliminary results with colleagues, we detected an unexpected pathogen appearing across multiple samples—one we hadn’t initially set out to find. Was this pathogen just an incidental finding, or was it playing a larger role in bat-vector interactions than we had anticipated? We are putting together all the information to identify if really is something new or not."_
 
+<img alt="logo" src="../assets/images/luca.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+### Attila Sándor
+
+<img alt="logo" src="../assets/images/attila.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+### Alexandra Corduneanu
+
+<img alt="logo" src="../assets/images/alexandra.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
 

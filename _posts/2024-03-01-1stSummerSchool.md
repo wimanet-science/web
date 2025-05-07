@@ -1,7 +1,7 @@
 ---
 title: 1st WIMANET Summer  School
 description: Open call for funding of Summer Training School in the Wildlife Malaria Network
-background: assets/theme/images/sampling_turmer.jpg
+background: /assets/images/sampling_turmer.jpg
 author: Jenny Dunn
 tags: [funding]
 comments: true
