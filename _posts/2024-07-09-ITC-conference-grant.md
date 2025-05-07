@@ -16,4 +16,4 @@ These grants can provide contribution for **travel, accommodation, and subsisten
 ## When to apply?
 The call for applications for the ITC Conference Grants will **open on 10th July 2024** and **close on 31st July 2024**.
 
-Download a PDF of this announcement including the **eligibility criteria** and application instructions __[here](https://github.com/wimanet-science/web/blob/e01ed8dc12878c5ca43a20a47622bb2878a7a61a/assets/docs/ITC%20Conference%20Grant%20announcement%202024_final.pdf)__.
+Download a PDF of this announcement including the **eligibility criteria** and application instructions __[here]({{ '/assets/docs/ITC Conference Grant announcement 2024_final.pdf' | relative_url }})__.

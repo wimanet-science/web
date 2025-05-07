@@ -16,4 +16,4 @@ Dissemination Conference Grants provide contribution for travel, accommodation, 
 ## When to apply?
 The call for applications for the Wildlife Malaria Network Dissemination Conference Grants will **open on 10th July 2024** and **close on 31st July 2024**.
 
-Download a PDF of this announcement including the eligibility criteria and application instructions __[here](https://github.com/wimanet-science/web/blob/5ad6f069c5e48482f374fd8e6af555237ec48161/assets/docs/Dissemination%20Grant%20announcement_final.pdf)__.
+Download a PDF of this announcement including the eligibility criteria and application instructions __[here]({{ '/assets/docs/Dissemination Grant announcement_final.pdf' | relative_url }})__.
