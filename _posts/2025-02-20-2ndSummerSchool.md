@@ -1,7 +1,7 @@
 ---
 title: Funding for Summer School Grant
 description: Open call for funding to join the 2nd WIMANET Summer School
-background: assets/theme/images/microscope.JPG
+background: /assets/images/microscope.JPG
 author: Jenny Dunn
 tags: [funding]
 comments: true

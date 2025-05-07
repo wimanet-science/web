@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: Wildlife Malaria Network
 # author: 
-baseurl: "/web" 
+baseurl: "/web"
 
 # SOCIAL PROFILES
 social:
@@ -16,7 +16,7 @@ posts_on_home: 2
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: true
-logo: assets/theme/images/logo-nav.png
+logo: assets/images/logo-nav.png
 colors:
   links: "#660000"
   banner: "#990000"

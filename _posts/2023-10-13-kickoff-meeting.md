@@ -1,7 +1,7 @@
 ---
 title: WIMANET online kick-off meeting
 description: The first meeting of the WIMANET management committee held online 28/09/2023.
-background: /assets/theme/images/MCmeetingWIMANET.jpg
+background: /assets/images/MCmeetingWIMANET.jpg
 author: [Tamara Emmenegger]
 tags: [meetings]
 ---
@@ -12,4 +12,4 @@ This introduction was followed by a so-called COST Action Café. In four rounds 
 
 Then it was time for some polls. Jenny Dunn (UK) was elected Chair, Alfonso Marzal (ES) was elected Vice Chair and the MC selected University of Lincoln as Grant Holder Institution, represented at the MC by Jenny Dunn. Further, the MC elected Alexandra Corduneanu (Romania) as the Grant Awarding Co-ordinator and Tamara Emmenegger (Switzerland) as the Science Communication Co-ordinator. Also all Working Group Leads (L) and some first Co-leads (CL) were elected unanimously (WG1: Nayden Chakarov (Germany) (L); WG2: Melanie Duc (Lithuania) (L), Ravinder Sehgal (US) (CL); WG3: Josué Martínez-de la Puente (Spain) (L), Carolina Chagas (Lithuania) (CL); WG4: Swen Renner (Austria) (L), Diego Santiago-Alarcon (US) (CL); WG5: Kasun Bodawatta (Denmark); WG6: Martina Ferraguti (Spain).
 
-Finally the next milestones and deliverables to be achieved for each working group during Grant Period 1 were presented. Along with all other detailed minutes from the meeting these can be found [here](/assets/docs/CA22108_MC1minutes.docx).
+Finally the next milestones and deliverables to be achieved for each working group during Grant Period 1 were presented. Along with all other detailed minutes from the meeting these can be found [here]({{ '/assets/docs/CA22108_MC1minutes.docx' | relative_url }}).

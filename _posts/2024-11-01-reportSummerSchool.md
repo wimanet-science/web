@@ -1,7 +1,7 @@
 ---
 title: Report from the WIMANET Summer School
 description: Summary of activities at the summer school in September 2024 at Mohelno (CZ)
-background: /assets/theme/images/groupMohelno_crop.jpg
+background: /assets/images/groupMohelno_crop.jpg
 author: Mélanie Duc & Pavel Munclinger
 tags: [report]
 comments: true
