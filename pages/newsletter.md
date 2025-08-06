@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-background: /assets/theme/images/grw_straight.jpg
+background: /assets/images/grw_straight.jpg
 permalink: /newsletter/
 toc: true
 ---
@@ -8,11 +8,13 @@ toc: true
 Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web/contact/)!
 
 ## 2025
+
 03/12 WIMANEWS 11: [Registration extended! STSMs 2024, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=e24c8d472d)<br>
 02/03 WIMANEWS 10: [Summer school & Workshop 2025, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=7aeb0b7961)<br>
 01/14 WIMANEWS 9: [Online course registration, Grant calls, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=8f74b5c056)<br>
 
 ## 2024
+
 12/20 WIMANEWS 8: [Online course, Grant calls, MalAvi & Conferences](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=12875918da)<br>
 11/21 WIMANEWS 7: [Conferences 2025, MalAvi database & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=31e68d74a2)<br>
 10/14 WIMANEWS 6: [Summer School, MalAvi database & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=3ea260ec1c)<br>

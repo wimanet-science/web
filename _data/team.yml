@@ -2,7 +2,7 @@
 
 - name: Jenny Dunn
   role: Action chair # Will appear next to name
-  image: assets/theme/images/jendun.jpg # Can be external link
+  image: /assets/images/jendun.jpg # Can be external link
   description: Jenny is Chair of WIMANET, and her interests span a wide range of aspects of parasite diversity and ecology. Her study systems focus on infections by Plasmodium, Haemoproteus, Leucocytozoon and Lankesterella in wild birds in the UK and Africa. More information on her lab is available [here](https://jennycdunn.wordpress.com).
   orcid: 0000-0002-6277-2781
   researchgate: Jenny-Dunn-2
@@ -12,12 +12,12 @@
 
 - name: Alfonso Marzal
   role: Action vice chair # Will appear next to name
-  image: assets/theme/images/alfmar.jpg # Can be external link
+  image: /assets/images/alfmar.jpg # Can be external link
   description: TBA
 
 - name: Tamara Emmenegger
   role: Science communication coordinator # Will appear next to name
-  image: assets/theme/images/tamemm.jpg # Can be external link
+  image: /assets/images/tamemm.jpg # Can be external link
   description: Since her PhD, Tamara studied avian malaria parasites and host-parasite interactions and she started co-curating the [MalAvi database](http://130.235.244.92/Malavi/) from 2021. Tamara is now working as a museum curator, but keeps collaborating with the wildlife malaria network as the Science Communications Co-ordinator of WIMANET.
   orcid: 0000-0002-2839-6129
   researchgate: Tamara-Emmenegger
@@ -28,7 +28,7 @@
   
 - name: Alexandra Corduneanu
   role: Grant awarding coordinator # Will appear next to name
-  image: assets/theme/images/alecor.jpg # Can be external link
+  image: /assets/images/alecor.jpg # Can be external link
   description: Alexandra is an assistant professor and teaches at the University of Agricultural Sciences and Veterinary Medicine in Cluj-Napoca. She has been working on pathogens associated with bats and added valuable knowledge on epidemiology and transmission dynamics through fieldwork and molecular analyses. She is involved in WIMANET as Grant Award Coordinator. 
   orcid: 0000-0002-6682-1827
   researchgate: Corduneanu-Alexandra
@@ -36,13 +36,13 @@
 
 - name: Nayden Chakarov
   role: Working group leader WG1 # Will appear next to name
-  image: assets/theme/images/naycha.jpg # Can be external link
+  image: /assets/images/naycha.jpg # Can be external link
   description: Nayden is an avid (and occasionally desperate) field biologist, keen on finding and understanding animals (mostly birds) whatever they do and wherever they go. This is a slippery slope, which leads him up trees, through diverse ecological interactions, into the blood and down to molecular genomics, metabolites and single-cell interactions. Digs particularly Leucocytozoon.
   email: nayden.chakarov@uni-bielefeld.de
   
 - name: Melanie Duc
   role: Working group leader WG2  # Will appear next to name
-  image: assets/theme/images/melduc.jpg # Can be external link
+  image: /assets/images/melduc.jpg # Can be external link
   description: Melanie finished her PhD in 2023 on the topic of exo-erythrocytic (tissue) stages of Haemoproteus (Apicomplexa, Haemosporida) parasites in wild infected birds. Continuing studying the life cycle of these parasites, she started leading the WG2 of WIMANET with Prof. Ravinder Sehgal.
   orcid: 0000-0001-5468-2594
   researchgate: Melanie-Duc
@@ -51,7 +51,7 @@
   
 - name: Josue Martinez-de la Puente
   role: Working group leader WG3 # Will appear next to name
-  image: assets/theme/images/josmar.jpg # Can be external link
+  image: /assets/images/josmar.jpg # Can be external link
   description: Josue studies the ecology and evolution of parasite transmission networks. Throughout his career, he has used a wide range of approaches combining the extensive monitoring of natural processes and experimental procedures in the wild and in the laboratory. He is leading WG3 on the study of vectors of wildlife malaria.
   researchgate: Josue-Martinez-De-La-Puente
   googlescholar: hj8sOtkAAAAJ
@@ -60,7 +60,7 @@
   
 - name: Swen Renner
   role: Working group leader WG4 # Will appear next to name
-  image: assets/theme/images/sweren.jpg # Can be external link
+  image: /assets/images/sweren.jpg # Can be external link
   description: Since his PhD, Swen worked on bird-environmental interactions and how land use change is affecting bird communities. Since 2014 he studied effects of Haemosporidians within global change responses to wildlife malaria. Swen is senior researcher and curator for ornithology at the [NHM Wien](https://www.nhm-wien.ac.at/swen_renner) and lead of WG4 of WIMANET.
   orcid: 0000-0002-6893-4219
   researchgate: Swen_Renner
@@ -69,7 +69,7 @@
 
 - name: Kasun H. Bodawatta
   role: Working group leader WG5 # Will appear next to name
-  image: assets/theme/images/kasbod.jpg # Can be external link
+  image: /assets/images/kasbod.jpg # Can be external link
   description: Kasun is an evolutionary and community ecologist, with main research interests in understanding the drivers of host-symbiont associations and microbial communities. His work mainly focuses on animal associated symbionts, such as gut and uropygial gland microbiomes and avian-haemosporidian interactions. He is leading WG5 on multi host-parasite communities. Also see his [personal website](https://kasunbodawatta.com/).
   orcid: 0000-0002-6095-9059
   researchgate: Kasun-Bodawatta
@@ -79,7 +79,7 @@
 
 - name: Martina Ferraguti
   role: Working group leader WG6 # Will appear next to name
-  image: assets/theme/images/marfer.jpg # Can be external link
+  image: /assets/images/marfer.jpg # Can be external link
   description: Martina explores ecological impacts on mosquito-borne diseases. In her postdocs (JdC and MSCA-IF), she delved into host-pathogen dynamics and developed epidemiological models for vector-borne diseases. Since 2023, she holds a Ramón y Cajal position at EBD-CSIC. In WIMANET, she leads WG6 - Coordinating & Implementing CBOs. Explore further on her [webpage](https://martinaferraguti.com/).
   orcid: 0000-0001-7481-4355
   researchgate: Martina-Ferraguti

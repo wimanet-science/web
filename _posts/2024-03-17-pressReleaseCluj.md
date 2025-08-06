@@ -1,7 +1,7 @@
 ---
 title: Press release about WIMANET workshop in Cluj-Napoca
 description: |
-background: /assets/theme/images/cluj.jpg
+background: /assets/images/cluj.jpg
 author: Martina Ferraguti
 tags: [media]
 comments: true
@@ -22,6 +22,6 @@ The agenda revolved around the collaborative efforts of six working groups (WG),
 **What’s next?**<br>
 One of WIMANET’s primary objectives is to empower and train young and early-career researchers the essential skills required for wildlife parasitology research. In line with this commitment, the WIMANET will be organizing a series of short scientific stays and training schools aimed at teaching young researchers the methods used to study vector-borne parasites. Additionally, the network will work on developing standardized protocols for field, laboratory, and bioinformatic analyses. The announcement for the first summer training school this year will be coming soon, and all early career researchers interested will be warmly invited to apply and participate in these inspiring events.
 
-Download the press release as a PDF [here](https://github.com/wimanet-science/web/blob/401c3977751f7e7e0f676dd8012d1a0d0bd84d16/assets/docs/WIMANET%20workshop%202nd%20Press%20Release.docx.pdf).
-For staying tuned for updates and upcoming activities as well as for any of your inquiries, please sign into our Newsletter [here](https://wimanet-science.github.io/web/contact/).
+Download the press release as a PDF [here]({{ '/assets/docs/WIMANET workshop 2nd Press Release.docx.pdf' | relative_url }}).
+For staying tuned for updates and upcoming activities as well as for any of your inquiries, please sign into our Newsletter [here]({{ '/contact/' | relative_url }}).
 
