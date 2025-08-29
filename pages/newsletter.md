@@ -9,6 +9,8 @@ Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web
 
 ## 2025
 
+03/12 WIMANEWS 13: [R, Webinar, Course & publications](https://mailchi.mp/093f8ecafa88/r8ny7mnz3g-6745501?e=94c4901368)<br>
+02/03 WIMANEWS 12: [Workshop 2nd call, STSMs 2024, publications](https://mailchi.mp/a749bd4909fd/r8ny7mnz3g-6743956?e=94c4901368)<br>
 03/12 WIMANEWS 11: [Registration extended! STSMs 2024, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=e24c8d472d)<br>
 02/03 WIMANEWS 10: [Summer school & Workshop 2025, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=7aeb0b7961)<br>
 01/14 WIMANEWS 9: [Online course registration, Grant calls, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=8f74b5c056)<br>
