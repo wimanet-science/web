@@ -7,6 +7,42 @@ toc: true
 
 ## STSMs in 2024
 
+### Margarita Kazak 
+
+<img alt="margarita.jpg" src="../assets/images/margarita.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to train on the taxonomy and systematics of Culicoides (Diptera: Ceratopogonidae) biting midges including training on morphological and molecular methods and to expand her knowledge on biting midge seasonal trapping method selection.
+
+Your expectations?
+
+> "Because of this internship, I was able not only to deepen my knowledge, but also to learn new methods to prepare the material for morphological identification; I was able to discover a new species in Lithuania in the material I had brought with me to the STSM, I was able to work with the Culicoides fauna of Asia and to visit several French farms where we carried out trapping of biting midges. Moreover, I was invited by dr. Bruno Mathieu to go to trainings in Vietnam as an expert on Culicoides; the trip to Vietnam and experience overall opened new carrier opportunities for me and gave me valuable experience."
+
+### Carolina Chagas 
+
+<img alt="carolina.jpg" src="../assets/images/carolina.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in Spain. She is co-leading the WG3 and wanted to discuss the next steps for it with Dr. Josue Martinez-de La Puente. During this visit they were able to start writing a review about the role of Culicoides in the transmission of Haemoproteus and Trypanosoma. This review is going to include several participants of the network and should be submitted soon. Additionally, they also discussed about the 2026 Summer School, to be focused on vectors and to be held in Spain.
+
+An anecdote?
+
+> "The entire experience was great! I had the opportunity to interact more with such renowned researchers such as Dr. Josue Martinez-de La Puente, Dr. Martina Ferraguti and Dr. Jesus Veiga. It was also nice to see their research facilities and bring this knowledge back to my home institution. I also had the opportunity to meet Dr. Mikel Alexander González, which is an expert in Diptera insects. Everyone in the laboratory was very friendly and it is a place that I would love to come back!."
+
+### Marta Garrigós 
+
+<img alt="marta.jpg" src="../assets/images/marta.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analyze data of the microbiome of Culex pipiens mosquitoes exposed and unexposed to Plasmodium relictum.
+
+An anecdote?
+
+> "I had the opportunity to attend a Swedish thesis defense. The PhD students made a theater parody of the person defending the thesis and the different people in the department, and I found it funny."
+
+### Misa Shimizu 
+
+<img alt="misa.jpg" src="../assets/images/misa.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+Misa Schimizu from Lithuania visited Dr. Jenny Dunn, in the UK to conduct morphological and molecular identification of Haemoproteus in vultures.
+
+An anecdote?
+
+> "I identified Haemoproteus parasites from vultures morphologically for the first time. STSM was also a nice opportunity to talk with researchers and students having different backgrounds at Keele University."
+
 ### Irène Hernández Caballero 
 
 <img alt="logo" src="../assets/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
