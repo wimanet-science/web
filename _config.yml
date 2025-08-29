@@ -5,14 +5,14 @@ baseurl: "/web"
 
 # SOCIAL PROFILES
 social:
-#  email: 
-#  twitter: 
-#  github: 
+#  email: wimanet.science@gmail.com
+#  twitter: wimanetscience
+#  github: wimanet-science
 
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish@3.0
-posts_on_home: 3
+posts_on_home: 2
 tweets_on_home: true
 archive_permalink: /news/
 github_edit: true
