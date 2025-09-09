@@ -13,7 +13,11 @@
 - name: Alfonso Marzal
   role: Action vice chair # Will appear next to name
   image: /assets/images/alfmar.jpg # Can be external link
-  description: TBA
+  description: Alfonso is a Full Professor of Zoology at the University of Extremadura and the Vice Chair of WIMANET. For the past 30 years, he has been investigating wildlife malaria, with a focus on birds and reptiles in Europe and South America. His main research interests encompass the haemosporidian–vector–wildlife interactions across a broad range of topics within the context of global change.
+  orcid: 0000-0001-5872-1060   
+  researchgate: Alfonso-Marzal
+  twitter: AlfonsoMarzal
+  email: amarzal@unex.es
 
 - name: Tamara Emmenegger
   role: Science communication coordinator # Will appear next to name
