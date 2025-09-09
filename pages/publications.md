@@ -6,9 +6,12 @@ toc: true
 ---
 
 ## 2025
-Chagas CRF, Bernotienė R, Bobeva A, ... & Martínez-de la Puente J (2025). A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe. _Parasites Vectors_ 18, 329. <https://doi.org/10.1186/s13071-025-06957-y>
 
-Ágh N, Pásztory-Kovács S,Prohászka V., Csörgő T, Szöllősi E (2025). Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe. 
+Himmel T, Harl J, Matt J, Nedorost N, Duc M, Tchoumbou M, Iezhova T, Valkiūnas G & Weissenböck H (2025). Tissue stages of Haemoproteus parasites (Haemosporida, Apicomplexa) in Ficedula flycatchers with evidence for phenotypic variation in Haemoproteus balmorali and implications for haemosporidian taxonomy. _International Journal for Parasitology_. <https://doi.org/10.1016/j.ijpara.2025.07.004>.
+
+Chagas CRF, Bernotienė R, Bobeva A, ... & Martínez-de la Puente J (2025). A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe. _Parasites Vectors_ 18, 329. <https://doi.org/10.1186/s13071-025-06957-y>.
+
+Ágh N, Pásztory-Kovács S,Prohászka V., Csörgő T & Szöllősi E (2025). Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe. 
 _International Journal for Parasitology: Parasites and Wildlife_, Volume 27, 101085. <https://doi.org/10.1016/j.ijppaw.2025.101085>.
 
 Bodawatta KH, Albrecht T, Krausová S, Nana ED, Hořák D, Sedláček O, ... & Munclinger P (2025). Cophylogeny, narrow host breadth and local conditions drive highly specialized bird–haemosporidian associations in West-Central African sky islands. _Proceedings B_, 292(2039), 20242524.<https://doi.org/10.1098/rspb.2024.2524>.
