@@ -18,6 +18,14 @@
   researchgate: Alfonso-Marzal
   twitter: AlfonsoMarzal
   email: amarzal@unex.es
+  
+- name: Alexandra Corduneanu
+  role: Grant awarding coordinator # Will appear next to name
+  image: /assets/images/alecor.jpg # Can be external link
+  description: Alexandra is an assistant professor and teaches at the University of Agricultural Sciences and Veterinary Medicine in Cluj-Napoca. She has been working on pathogens associated with bats and added valuable knowledge on epidemiology and transmission dynamics through fieldwork and molecular analyses. She is involved in WIMANET as Grant Award Coordinator. 
+  orcid: 0000-0002-6682-1827
+  researchgate: Corduneanu-Alexandra
+  email: alexandra.corduneanu@usamvcluj.ro
 
 - name: Tamara Emmenegger
   role: Science communication coordinator # Will appear next to name
@@ -29,14 +37,6 @@
   twitter: tavimalara
   github: tavimalara
   email: avianmalaria@gmail.com
-  
-- name: Alexandra Corduneanu
-  role: Grant awarding coordinator # Will appear next to name
-  image: /assets/images/alecor.jpg # Can be external link
-  description: Alexandra is an assistant professor and teaches at the University of Agricultural Sciences and Veterinary Medicine in Cluj-Napoca. She has been working on pathogens associated with bats and added valuable knowledge on epidemiology and transmission dynamics through fieldwork and molecular analyses. She is involved in WIMANET as Grant Award Coordinator. 
-  orcid: 0000-0002-6682-1827
-  researchgate: Corduneanu-Alexandra
-  email: alexandra.corduneanu@usamvcluj.ro
 
 - name: Nayden Chakarov
   role: Working group leader WG1 # Will appear next to name
