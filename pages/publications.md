@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+Duc M, Iezhova T, Valkiūnas G, Landau I & Duval L (2025). Treasure Chest in the Taxonomic Collection: Molecular Characterization and Redescription of Haemoproteus handai, with Insights into the Phylogenetic Relationship of Haemosporidian Parasites of Parrots (Psittaciformes). _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.13023>.
+
 Chagas CRF, Bernotienė R, Bobeva A, ... & Martínez-de la Puente J (2025). A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe. _Parasites Vectors_ 18, 329. <https://doi.org/10.1186/s13071-025-06957-y>.
 
 Ágh N, Pásztory-Kovács S,Prohászka V., Csörgő T & Szöllősi E (2025). Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe. 
