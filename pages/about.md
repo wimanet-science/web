@@ -29,6 +29,8 @@ _Countries of origin of the members participating in WIMANET (from [https://doi.
 <br>
 <br>
 
+### Groups
+
 | #  | Working groups      | Lead  | Co-lead | 
 | -----  | ----------- | ----------- | ----------- | 
 | 1  | [Coordinating genomics, transcriptomics, and molecular markers](https://wimanet-science.github.io/web/wg1/)      | [Nayden Chakarov](https://wimanet-science.github.io/web/team/#Nayden+Chakarov)  | Luz Garcia-Longoria, Ricardo Jorge Lopes  |
