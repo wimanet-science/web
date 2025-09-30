@@ -29,9 +29,9 @@ _Countries of origin of the members participating in WIMANET (from [https://doi.
 <br>
 <br>
 
-### Groups
+### Working groups
 
-| #  | Working groups      | Lead  | Co-lead | 
+| #  | Topics      | Lead  | Co-lead | 
 | -----  | ----------- | ----------- | ----------- | 
 | 1  | [Coordinating genomics, transcriptomics, and molecular markers](https://wimanet-science.github.io/web/wg1/)      | [Nayden Chakarov](https://wimanet-science.github.io/web/team/#Nayden+Chakarov)  | Luz Garcia-Longoria, Ricardo Jorge Lopes  |
 | 2  | [Incorporating molecular markers and morphology to assign wildlife malaria lineages to species](https://wimanet-science.github.io/web/wg2/)   | [Melanie Duc](https://wimanet-science.github.io/web/team/#Melanie+Duc)  | Ravinder Sehgal |
