@@ -16,4 +16,4 @@ Dissemination Conference Grants provide contribution for travel, accommodation, 
 ### When to apply?
 For **conferences taking place before 30th June 2026** the call for WIMANET Dissemination Grant application **opened on 20th October 2025** and will **close on 10th November 2025**.
 
-Download this announcement to check the **eligibility criteria** and detailed **application instructions** __[here]({{ '/assets/docs/Dissemination Grant announcement.docx' | relative_url }})__ and a template file the budget __[here]({{ '/assets/docs/Budget template.xlsx' | relative_url }})__.
+Download this announcement to check the **eligibility criteria** and detailed **application instructions** __[here]({{ '/assets/docs/Dissemination Grant announcement.docx' | relative_url }})__ and find a template file for the budget __[here]({{ '/assets/docs/Budget template.xlsx' | relative_url }})__.
