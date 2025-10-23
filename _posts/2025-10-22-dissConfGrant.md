@@ -1,7 +1,7 @@
 ---
 title: Funding for WIMANET Dissemination Conference Grants
 description: Call for funding to present Action work at conferences
-background: /assets/images/conference_dreamstime_xxl_186174594~2.jpg
+background: /assets/images/workshopVilnius_meeting.jpg
 author: Jenny Dunn & Alexandra Corduneanu
 tags: [funding]
 comments: true
