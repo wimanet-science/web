@@ -1,6 +1,6 @@
 ---
 title: Funding for ITC Conference Grants
-description: Call for funding to young researhers from target countries
+description: Call for funding to researhers from target countries
 background: /assets/images/conference_dreamstime_xxl_56293863~2.jpg
 author: Jenny Dunn & Alexandra Corduneanu
 tags: [funding]
