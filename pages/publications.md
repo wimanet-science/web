@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+Garrigós M, García-Ruiz O, Enkvist CR ... & Martínez-de la Puente J (2025). Effects of avian Plasmodium exposure on the microbiota of Culex pipiens. _Scientific Reports_ 15, 38898. <https://doi.org/10.1038/s41598-025-22774-w>
+
 Duc M, Iezhova T, Valkiūnas G, Landau I & Duval L (2025). Treasure Chest in the Taxonomic Collection: Molecular Characterization and Redescription of Haemoproteus handai, with Insights into the Phylogenetic Relationship of Haemosporidian Parasites of Parrots (Psittaciformes). _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.13023>.
 
 Chagas CRF, Bernotienė R, Bobeva A, ... & Martínez-de la Puente J (2025). A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe. _Parasites Vectors_ 18, 329. <https://doi.org/10.1186/s13071-025-06957-y>.
