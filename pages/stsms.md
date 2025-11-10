@@ -19,7 +19,7 @@ Your expectations?
 
 ### Carolina Chagas 
 
-<img alt="carolina.jpg" src="https://github.com/wimanet-science/web/blob/ae05148df5d42b95bf2bc6c7edc96161305256d5/assets/images/carolina.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="carolina.jpg" src="../assets/images/carolina.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
 Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in Spain. She is co-leading the WG3 and wanted to discuss the next steps for it with Dr. Josue Martinez-de La Puente. During this visit they were able to start writing a review about the role of Culicoides in the transmission of Haemoproteus and Trypanosoma. This review is going to include several participants of the network and should be submitted soon. Additionally, they also discussed about the 2026 Summer School, to be focused on vectors and to be held in Spain.<br>
 
 An anecdote?
@@ -29,7 +29,7 @@ An anecdote?
 
 ### Marta Garrigós 
 
-<img alt="marta.jpg" src="https://github.com/wimanet-science/web/blob/ae05148df5d42b95bf2bc6c7edc96161305256d5/assets/images/marta.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="marta.jpg" src="../assets/images/marta.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
 Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analyze data of the microbiome of Culex pipiens mosquitoes exposed and unexposed to Plasmodium relictum.<br>
 
 An anecdote?
@@ -39,7 +39,7 @@ An anecdote?
 
 ### Misa Shimizu 
 
-<img alt="misa.jpg" src="https://github.com/wimanet-science/web/blob/ae05148df5d42b95bf2bc6c7edc96161305256d5/assets/images/misa.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="misa.jpg" src="../assets/images/misa.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
 Misa Schimizu from Lithuania visited Dr. Jenny Dunn, in the UK to conduct morphological and molecular identification of Haemoproteus in vultures.<br>
 
 An anecdote?
