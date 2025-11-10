@@ -9,7 +9,7 @@ toc: true
 
 ### Margarita Kazak 
 
-<img alt="margarita.jpg" src="https://github.com/wimanet-science/web/blob/ae05148df5d42b95bf2bc6c7edc96161305256d5/assets/images/margarita.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="margarita.jpg" src="../assets/images/margarita.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
 Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to train on the taxonomy and systematics of Culicoides (Diptera: Ceratopogonidae) biting midges including training on morphological and molecular methods and to expand her knowledge on biting midge seasonal trapping method selection.<br>
 
 Your expectations?
