@@ -7,8 +7,12 @@ toc: true
 
 Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web/contact/)!
 
-## 2025
+## 2026
+01/05 WIMANEWS 16: [STSMs call, publications & conferences](https://mailchi.mp/0bf6c29103d5/r8ny7mnz3g-6747958?e=[UNIQID])<br>
 
+## 2025
+10/30 WIMANEWS 15: [Grant calls, interview & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=9cbf081a54)<br>
+09/29 WIMANEWS 14: [Summer School, Worekshop & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=528a6350c9)<br>
 06/16 WIMANEWS 13: [R, Webinar, Course & publications](https://mailchi.mp/093f8ecafa88/r8ny7mnz3g-6745501?e=94c4901368)<br>
 05/05 WIMANEWS 12: [Workshop 2nd call, STSMs 2024, publications](https://mailchi.mp/a749bd4909fd/r8ny7mnz3g-6743956?e=94c4901368)<br>
 03/12 WIMANEWS 11: [Registration extended! STSMs 2024, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=e24c8d472d)<br>
@@ -16,7 +20,6 @@ Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web
 01/14 WIMANEWS 9: [Online course registration, Grant calls, publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=8f74b5c056)<br>
 
 ## 2024
-
 12/20 WIMANEWS 8: [Online course, Grant calls, MalAvi & Conferences](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=12875918da)<br>
 11/21 WIMANEWS 7: [Conferences 2025, MalAvi database & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=31e68d74a2)<br>
 10/14 WIMANEWS 6: [Summer School, MalAvi database & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=3ea260ec1c)<br>
