@@ -8,8 +8,6 @@ permalink: /docs/malavi_blast/
 
 <iframe width="100%" height=600px loading="eager" style=" 
 	position:absolute; 
-	top:-400px; 
-	left:40px; 
 	overflow-y:hidden; 
 	overflow-x:hidden; 
 	scrolling:no;"
