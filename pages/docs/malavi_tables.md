@@ -6,7 +6,8 @@ background: /assets/images/grw_paras.jpg
 permalink: /docs/malavi_tab/
 ---
 
-<iframe width="80%" height=1000px loading="eager" style=" position:absolute; left:40px; overflow-y:scroll; overflow-x:scroll; scrolling:yes;"
+<iframe  transform: scale(0.75);  transform-origin: 0 0;
+	width="80%" height=1000px loading="eager" style=" position:absolute; left:40px; overflow-y:scroll; overflow-x:scroll; scrolling:yes;"
 	src="https://tavimalara.shinyapps.io/malavi_tables">
 				</iframe>
 
