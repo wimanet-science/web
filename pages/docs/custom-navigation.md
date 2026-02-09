@@ -9,7 +9,7 @@ permalink: /docs/custom-navigation/
 <iframe width="80%" height="80%" loading="eager" style="
   position:absolute;
   left:40px;
-  overflow-y:hidden;
+  overflow-y:scroll;
   overflow-x:hidden;
   scrolling:no;"
   src="https://tavimalara.shinyapps.io/malavi_map"> </iframe>
