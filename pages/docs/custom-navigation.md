@@ -1,6 +1,6 @@
 ---
-title: Custom navigation
-description: This page has its own top navigation.
+title: MalAvi database
+description: This page is the temporary home of MalAvi.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 permalink: /docs/custom-navigation/
 ---
