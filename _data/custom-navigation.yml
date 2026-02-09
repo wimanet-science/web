@@ -5,10 +5,10 @@
 - text: Test
   menu:
   - text: Database tables
-    href: /malavi_tab/
+    href: /docs/malavi_tab/
   - text: BLAST
-    href: /malavi_blast/
+    href: /docs//malavi_blast/
   - text: FASTA files
-    href: /malavi_fasta/
+    href: /docs//malavi_fasta/
   - text: About
-    href: /malavi_about/
+    href: /docs//malavi_about/
