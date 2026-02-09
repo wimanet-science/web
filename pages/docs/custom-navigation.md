@@ -7,6 +7,7 @@ permalink: /docs/custom-navigation/
 ---
 
 <iframe width="80%" height=500px loading="eager" style="
+  transform:scale(0.8); 
   position:absolute;
   left:40px;
   overflow-y:scroll;
