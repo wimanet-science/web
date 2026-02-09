@@ -1,6 +1,7 @@
 ---
 title: MalAvi database
 description: a (temporary) database for avian haemosporidian parasites
+navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
 permalink: /docs/malavi_tab/
 ---
