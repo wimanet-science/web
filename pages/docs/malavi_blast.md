@@ -1,6 +1,7 @@
 ---
 title: MalAvi BLAST
 description: bla bla BLAST
+navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
 permalink: /docs/malavi_blast/
 ---
