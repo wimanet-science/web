@@ -5,4 +5,4 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 permalink: /docs/custom-navigation/
 ---
 
-You can go back to the main site by clicking the site title at the top left.
+You can go back to WIMANET by clicking the logo at the top left.
