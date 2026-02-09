@@ -6,7 +6,8 @@ background: /assets/images/grw_paras.jpg
 permalink: /docs/malavi_blast/
 ---
 
-<iframe width="100%" height=auto src="https://811l41-vincenzo-ellis.shinyapps.io/MalAviBLAST/">
+<iframe width="80%" height=600px loading="eager" style=" position:absolute; left:40px; overflow-y:scroll; overflow-x:hidden; scrolling:no;"
+	src="https://811l41-vincenzo-ellis.shinyapps.io/MalAviBLAST/">
 				</iframe>
 
 <br>
