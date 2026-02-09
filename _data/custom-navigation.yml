@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: "Welcome to MalAvi !" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
-  href: /docs/malavi_nav/
+  href: /docs/custom-navigation/
 - text: Test
   menu:
   - text: Database tables
