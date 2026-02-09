@@ -5,7 +5,7 @@ background: /assets/images/grw_paras.jpg
 permalink: /malavi_tab/
 ---
 
-<iframe src="https://tavimalara.shinyapps.io/malavi_tables" width: 100%;  height: auto;>
+<iframe width=100% height=100% src="https://tavimalara.shinyapps.io/malavi_tables">
 				</iframe>
 
 <br>
