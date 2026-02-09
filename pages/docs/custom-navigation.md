@@ -6,8 +6,8 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 permalink: /docs/custom-navigation/
 ---
 
-<iframe width="100%" height=700px style="
-  transform:scale(0.7); 
+<iframe width="90%" height=700px style="
+  transform:scale(0.5); 
   transform-origin: 0 0;
   position:absolute;
   left:40px;
