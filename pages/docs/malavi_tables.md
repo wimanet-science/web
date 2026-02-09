@@ -6,7 +6,7 @@ background: /assets/images/grw_paras.jpg
 permalink: /docs/malavi_tab/
 ---
 
-<iframe width="120%" height=700px loading="eager" style="
+<iframe width="120%" height=750px loading="eager" style="
 	transform:scale(0.5); 
 	transform-origin: 0 0;
 	position:absolute; 
