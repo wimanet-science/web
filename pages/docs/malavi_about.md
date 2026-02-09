@@ -2,7 +2,7 @@
 title: About MalAvi
 description: 
 background: /assets/images/grw_paras.jpg
-permalink: /malavi_blast/
+permalink: /malavi_about/
 ---
 
 Haemosporidian parasites: 
