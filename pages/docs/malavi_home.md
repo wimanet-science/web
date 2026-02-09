@@ -6,3 +6,5 @@ permalink: /docs/malavi_home/
 ---
 
 You can go back to WIMANET by clicking the logo at the top left.
+
+<iframe width="100%" height=500 src="https://tavimalara.shinyapps.io/malavi_map"> </iframe>
