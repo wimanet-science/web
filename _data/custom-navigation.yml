@@ -1,14 +1,13 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: "Welcome to MalAvi !" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+- text: "Menu!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
   href: /docs/custom-navigation/
-- text: Menu
   menu:
-  - text: Database tables
-    href: /docs/malavi_tab/
-  - text: BLAST
-    href: /docs/malavi_blast/
-  - text: FASTA files
-    href: /docs/malavi_fasta/
-  - text: About
-    href: /docs/malavi_about/
+- text: Database tables
+  href: /docs/malavi_tab/
+- text: BLAST
+  href: /docs/malavi_blast/
+- text: FASTA files
+  href: /docs/malavi_fasta/
+- text: About
+  href: /docs/malavi_about/
