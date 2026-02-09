@@ -1,12 +1,12 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: "Courses 2022" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+- text: "MalAvi database" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
   href: /docs/custom-navigation/
-- text: Courses
+- text: Test
   menu:
-  - text: Course 1
+  - text: MalAvi maps
     href: true
-  - text: Course 2
+  - text: MalAvi tables
     href: true
-- text: Exercises
+- text: MalAvi BLAST
   href: true
