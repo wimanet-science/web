@@ -1,6 +1,7 @@
 ---
 title: About MalAvi
 description: 
+navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
 permalink: /malavi_about/
 ---
