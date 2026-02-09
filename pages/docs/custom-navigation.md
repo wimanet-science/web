@@ -1,6 +1,6 @@
 ---
-title: MalAvi database
-description: This page is the temporary home of MalAvi.
+title: MalAvi:
+description: This is the temporary home of the MalAvi database.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 permalink: /docs/custom-navigation/
 ---
