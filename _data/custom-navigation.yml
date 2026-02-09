@@ -1,6 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: "Menu!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+- text: "Home!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
   href: /docs/custom-navigation/
   menu:
 - text: Database tables
