@@ -6,5 +6,10 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 permalink: /docs/custom-navigation/
 ---
 
-<iframe width="80%" height="90%" loading="eager" style="position:absolute;left:50px;scrolling:yes;"
+<iframe width="80%" height="90%" loading="eager" style="
+  position:absolute;
+  left:40px;
+  overflow-y:hidden;
+  overflow-x:hidden;
+  scrolling:no;"
   src="https://tavimalara.shinyapps.io/malavi_map"> </iframe>
