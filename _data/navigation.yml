@@ -32,8 +32,8 @@
     href: /stsms/
   - text: Newsletter
     href: /newsletter/
-  - text: MalAvi database
-    href: /docs/custom-navigation/
+  - text: Page with custom navigation
+    #href: /docs/custom-navigation/
 - text: Activities
   href: /activities/
 - text: Contact
