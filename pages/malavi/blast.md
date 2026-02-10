@@ -5,12 +5,16 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 background: /assets/images/grw_paras.jpg
 permalink: /malavi/blast/
 ---
-
-<iframe width="120%" height=750px loading="eager" style="
-	transform:scale(0.75); 
-	transform-origin: 0 0;
+<iframe width="90%" height=800px style="
+	transform:scale(0.85); 
+	transform-origin: 0 0; 
+	position:absolute; 
 	left:40px; 
-	src="https://811l41-vincenzo-ellis.shinyapps.io/MalAviBLAST/">
-				</iframe>
+	overflow-y:scroll; 
+	overflow-x:scroll; 
+	scrolling:yes;" 
+	src="https://811l41-vincenzo-ellis.shinyapps.io/MalAviBLAST/"> </iframe>
 
 <br>
+
+
