@@ -1,13 +1,13 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: "Explore the treasure map!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
-  href: /malavi/custom-navigation/
+- text: "Home & treasure map!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+  href: /malavi/
   menu:
 - text: Database tables
-  href: /malavi/malavi_tab/
-- text: BLAST
-  href: /malavi/malavi_blast/
+  href: /malavi/tables/
+- text: BLAST tool
+  href: /malavi/blast/
 - text: FASTA files
-  href: /malavi/malavi_fasta/
-- text: About
-  href: /malavi/malavi_about/
+  href: /malavi/fasta/
+- text: About MalAvi
+  href: /malavi/about/
