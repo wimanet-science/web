@@ -1,6 +1,6 @@
 ---
-title: MalAvi
-description: Search and filter the MalAvi report tables.
+title: MalAvi datatables
+description: Search, filter and download the MalAvi report tables.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
 permalink: /malavi/tables/
