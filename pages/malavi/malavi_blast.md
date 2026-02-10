@@ -9,7 +9,6 @@ permalink: /malavi/malavi_blast/
 <iframe width="120%" height=750px loading="eager" style="
 	transform:scale(0.75); 
 	transform-origin: 0 0;
-	position:absolute; 
 	left:40px; 
 	src="https://811l41-vincenzo-ellis.shinyapps.io/MalAviBLAST/">
 				</iframe>
