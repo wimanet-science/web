@@ -7,7 +7,7 @@ permalink: /malavi/
 ---
 
 <iframe width="90%" height=800px style="
-  transform:scale(0.5); 
+  transform:scale(0.75); 
   transform-origin: 0 0;
   position:absolute;
   left:40px;
