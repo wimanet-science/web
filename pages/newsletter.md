@@ -8,6 +8,7 @@ toc: true
 Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web/contact/)!
 
 ## 2026
+02/09 WIMANEWS 17: [Conference grant call & experiences, publications & conferences](https://mailchi.mp/59e869478ac6/r8ny7mnz3g-6749691?e=94c4901368)<br>
 01/05 WIMANEWS 16: [STSMs call, publications & conferences](https://mailchi.mp/0bf6c29103d5/r8ny7mnz3g-6747958?e=[UNIQID])<br>
 
 ## 2025
