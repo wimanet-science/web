@@ -33,7 +33,7 @@
   - text: Newsletter
     href: /newsletter/
   - text: Page under construction...
-    href: /malavi/custom-navigation/
+    #href: /malavi/custom-navigation/
     new_window: true
 - text: Activities
   href: /activities/
