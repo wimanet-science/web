@@ -3,7 +3,7 @@ title: MalAvi BLAST
 description: Align your nucleotide sequences with MalAvi.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
-permalink: /malavi/malavi_blast/
+permalink: /malavi/mblast/
 ---
 
 <iframe width="120%" height=750px loading="eager" style="
