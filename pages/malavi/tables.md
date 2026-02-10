@@ -6,8 +6,8 @@ background: /assets/images/grw_paras.jpg
 permalink: /malavi/tables/
 ---
 
-<iframe width="120%" height=800px style="
-	transform:scale(0.75); 
+<iframe width="120%" height=900px style="
+	transform:scale(0.8); 
   transform-origin: 0 0;
   position:absolute;
   left:40px;
