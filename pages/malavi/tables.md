@@ -7,7 +7,7 @@ permalink: /malavi/tables/
 ---
 
 <iframe width="120%" height=1500px style="
-	transform:scale(0.8); 
+	transform:scale(0.7); 
   transform-origin: 0 0;
   position:absolute;
   left:40px;
