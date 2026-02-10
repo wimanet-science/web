@@ -3,7 +3,7 @@ title: MalAvi
 description: Search and filter the MalAvi report tables.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
-permalink: /docs/malavi_tab/
+permalink: /malavi/malavi_tab/
 ---
 
 <iframe width="120%" height=750px loading="eager" style="
