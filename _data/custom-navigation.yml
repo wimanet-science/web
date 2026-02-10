@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: "Home & treasure map!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
-  href: /malavi/
+  href: /malavi/home/
   menu:
 - text: Database tables
   href: /malavi/tables/
