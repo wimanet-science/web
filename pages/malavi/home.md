@@ -9,5 +9,9 @@ permalink: /malavi/
 <iframe width="90%" height=800px style="
   transform:scale(0.8); 
   transform-origin: 0 0;
+  position:absolute;
   left:40px;
+  overflow-y:scroll;
+  overflow-x:scroll;
+  scrolling:yes;"
   src="https://tavimalara.shinyapps.io/malavi_map"> </iframe>
