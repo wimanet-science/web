@@ -1,6 +1,6 @@
 ---
-title: MalAvi 
-description: Find the FASTA files with the MalAvi data.
+title: MalAvi FASTA 
+description: Find the FASTA files with the nucleotide sequences in MalAvi.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 background: /assets/images/grw_paras.jpg
 permalink: /malavi/malavi_fasta/
