@@ -2,7 +2,7 @@
 title: About MalAvi
 description: Read more about the MalAvi database.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
-background: /assets/malavi/logo_t.png
+background: /assets/malavi/cover_panel.svg
 permalink: /malavi/about/
 ---
 
