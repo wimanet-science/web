@@ -1,7 +1,7 @@
 ---
 title: MalAvi database
 description: This is the (temporary) home of MalAvi.
-background: /assets/malavi/RipRip_header.png
+background: /assets/malavi/merapi_header.png
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 permalink: /malavi/
 ---
