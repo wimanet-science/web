@@ -7,6 +7,8 @@ toc: true
 
 ## 2025
 
+Shimizu M, Chagas CRF & Dunn JC (2025). Review of Genetic Information of Morphologically Described Haemoproteus Parasites Recorded in GenBank and MalAvi Databases. _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.70031>
+
 Garrigós M, García-Ruiz O, Enkvist CR ... & Martínez-de la Puente J (2025). Effects of avian Plasmodium exposure on the microbiota of Culex pipiens. _Scientific Reports_ 15, 38898. <https://doi.org/10.1038/s41598-025-22774-w>
 
 Duc M, Iezhova T, Valkiūnas G, Landau I & Duval L (2025). Treasure Chest in the Taxonomic Collection: Molecular Characterization and Redescription of Haemoproteus handai, with Insights into the Phylogenetic Relationship of Haemosporidian Parasites of Parrots (Psittaciformes). _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.13023>.
