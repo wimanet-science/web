@@ -2,7 +2,7 @@
 title: MalAvi BLAST
 description: Align your sequences with lineages in MalAvi.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
-background: /assets/images/grw_paras.jpg
+background: /assets/malavi/merapi_header.png
 permalink: /malavi/blast/
 ---
 <iframe width="90%" height=800px style="
