@@ -2,7 +2,7 @@
 title: MalAvi data
 description: Search, filter and download the MalAvi report tables.
 navigation: custom-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
-background: /assets/images/grw_paras.jpg
+background: /assets/malavi/merapi_header.png
 permalink: /malavi/tables/
 ---
 
