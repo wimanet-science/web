@@ -5,7 +5,7 @@ permalink: /wg2/
 ---
 
 <img alt="logo" src="../assets/images/WG2-image_website.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
-Working group 2 (WG2) works on combining molecular markers with morphological data to link parasite lineages to species and clarify their evolutionary relationships. To improve species identification, the group has launched several complementary initiatives. Amongst others, they are developing an interactive key to identify haemosporidian parasites. This software will focus on haemosporidians of birds, as scientists have studied these more thoroughly than those from other host groups. WG2 also organizes courses like e.g. a summer scool with focus on species identification and hematology and is aiming at putting together guidelines for collecting samples to ensure consistency in research.
+Working group 2 (WG2) works on combining molecular markers with morphological data to link parasite lineages to species and clarify their evolutionary relationships. To improve species identification, the group has launched several complementary initiatives. Amongst others, they are developing an interactive key to identify haemosporidian parasites. This software will focus on haemosporidians of birds, as scientists have studied these more thoroughly than those from other host groups. WG2 also co-organized courses like e.g. a [summer school](https://wimanet-science.github.io/web/news/2025/summerschoolvilnius/) with focus on species identification and hematology and is aiming at putting together guidelines for collecting samples to ensure consistency in research.
 
 | WG2 member  | Country |
 | -----  | ----------- |
