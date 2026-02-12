@@ -8,8 +8,7 @@ permalink: /malavi/about/
 
 <img alt="logo" src="/assets/malavi/logo_t.png" width="220" style="
      position:absolute;
-    bottom:0px;
-    left:0px;
+     float: right;
   ">
 
 ##### Haemosporidian parasites: 
