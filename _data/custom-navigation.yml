@@ -1,5 +1,6 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+
 - text: "Home & treasure map!" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
   href: /malavi/
   menu:
@@ -11,3 +12,4 @@
   href: /malavi/fasta/
 - text: About MalAvi
   href: /malavi/about/
+- text: "![/assets/malavi/logo_t.png](){height=10em}"
