@@ -5,7 +5,7 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 background: /assets/malavi/merapi_header.png
 permalink: /malavi/about/
 ---
-![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){:.d-inline .w-99 style="margin-right:-400px; margin-top:40px; float:right"}
+![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){:.d-inline .w-99 style="margin-right:-400px; margin-top:30px; float:right"}
 
 
 ##### Haemosporidian parasites: 
