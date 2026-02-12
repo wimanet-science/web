@@ -5,7 +5,7 @@ navigation: custom-navigation # Looks for navigation in _data/custom-navigation.
 background: /assets/malavi/merapi_header.png
 permalink: /malavi/about/
 ---
-![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){ style="float: left" :.d-inline .w-99}
+![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){:.d-inline .w-99 style="float: left"}
 
 ##### Haemosporidian parasites: 
 Avian malaria and related haemosporidians are single-cell microorganisms transmitted by insect vectors. These parasites are more diverse in the tropics, but also have active transmission in temperate regions as far north as the Arctic polar circle. The majority of haemosporidian parasites appears to be host specialists or restricted to a limited number of closely related host species.
