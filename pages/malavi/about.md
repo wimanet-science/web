@@ -24,3 +24,9 @@ Different report types can be chosen to retrieve and download data from MalAvi. 
 If you find errors in the database, please report these to Tamara or Staffan. Please also report if you find studies that are missing. To help with preparing your data for upload in MalAvi there is an excel file with pre-filled examples of how the data should be entered available for download here.
 
 <br>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
