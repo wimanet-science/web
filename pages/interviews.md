@@ -1,6 +1,6 @@
 ---
 title: WIMANET interviews 
-description: #meetWIMANETmembers dialogues from and with WIMANET members 
+description: "Short interviews from and with members of WIMANET" 
 permalink: /interviews/
 toc: true
 ---
