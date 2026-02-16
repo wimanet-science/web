@@ -7,6 +7,7 @@ permalink: /malavi/about/
 ---
 
 [comment]: <> (![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){:.d-inline .w-99 style="margin-right:-400px; margin-top:30px; float:right"})
+![logo]({{ "/assets/malavi/logo_t.png" | relative_url }}){:.d-inline .w-99 style="margin-right:-400px; margin-top:30px; float:right"}
 
 ##### Haemosporidian parasites: 
 Avian malaria and related haemosporidians are single-cell microorganisms transmitted by insect vectors. These parasites are more diverse in the tropics, but also have active transmission in temperate regions as far north as the Arctic polar circle. The majority of haemosporidian parasites appears to be host specialists or restricted to a limited number of closely related host species.
@@ -24,9 +25,3 @@ Different report types can be chosen to retrieve and download data from MalAvi. 
 If you find errors in the database, please report these to Tamara or Staffan. Please also report if you find studies that are missing. To help with preparing your data for upload in MalAvi there is an excel file with pre-filled examples of how the data should be entered available for download here.
 
 <br>
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
