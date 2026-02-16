@@ -15,7 +15,7 @@ Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to trai
 Your expectations?
 
 > "Because of this internship, I was able not only to deepen my knowledge, but also to learn new methods to prepare the material for morphological identification; I was able to discover a new species in Lithuania in the material I had brought with me to the STSM, I was able to work with the Culicoides fauna of Asia and to visit several French farms where we carried out trapping of biting midges. Moreover, I was invited by dr. Bruno Mathieu to go to trainings in Vietnam as an expert on Culicoides; the trip to Vietnam and experience overall opened new carrier opportunities for me and gave me valuable experience."
-<br>
+<br><br>
 
 ### Carolina Chagas 
 
@@ -25,7 +25,7 @@ Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in
 An anecdote?
 
 > "The entire experience was great! I had the opportunity to interact more with such renowned researchers such as Dr. Josue Martinez-de La Puente, Dr. Martina Ferraguti and Dr. Jesus Veiga. It was also nice to see their research facilities and bring this knowledge back to my home institution. I also had the opportunity to meet Dr. Mikel Alexander González, which is an expert in Diptera insects. Everyone in the laboratory was very friendly and it is a place that I would love to come back!."
-<br>
+<br><br>
 
 ### Marta Garrigós 
 
@@ -35,7 +35,7 @@ Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analy
 An anecdote?
 
 > "I had the opportunity to attend a Swedish thesis defense. The PhD students made a theater parody of the person defending the thesis and the different people in the department, and I found it funny."
-<br>
+<br><br>
 
 ### Misa Shimizu 
 
@@ -45,7 +45,7 @@ Misa Schimizu from Lithuania visited Dr. Jenny Dunn, in the UK to conduct morpho
 An anecdote?
 
 > "I identified Haemoproteus parasites from vultures morphologically for the first time. STSM was also a nice opportunity to talk with researchers and students having different backgrounds at Keele University."
-<br>
+<br><br>
 
 ### Irène Hernández Caballero 
 
@@ -55,7 +55,7 @@ Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denm
 An anecdote?
 
 > "Dr. Bodawatta was very welcoming and thoughtful. One of the most memorable moments was when he brought me a croissant as a welcome gift, as I had told him I love pastries. I thought it was a very nice gesture and the best welcome. I also had the pleasure of attending a lab meeting and spending a few days doing field work with his group, which was a very valuable experience."
-<br>
+<br><br>
 
 ### Luca Ilahiane
 
@@ -65,7 +65,7 @@ Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perfor
 Your expectations?
 
 > "In just one month of stay, all 388 samples were fully screened for all parasites, and the infected ones were sequenced. This provided interesting new data on host-parasite relationships in heavily urbanized environments."
-<br>
+<br><br>
 
 ### Attila Sándor
 
@@ -75,7 +75,7 @@ Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre fo
 Your expectations?
 
 > "The results of the STSM are the jointly approved and enhanced set of highly standardized procedures for simultaneous data collection for the impact of hibernation (or lack of hibernation) on malaria-clearance in bent-winged bats, which will constitute the base for an experimental study in the near future. The techniques were tested and repeated in three successive setting at three different bent-winged bat colonies in N, C and SE Portugal (Tamar/Nabao, Mira Moura and Montemor-o-Novo), both at natural (caves), as well anthropogenic roosts (mine shafts). The participants from Portugal (2 persons from the University and 3 persons from local groups at Porto and Montemor) were familiarized with techniques of bat capture as well blood and ectoparasite collection intended for malaria surveys."
-<br>
+<br><br>
 
 ### Alexandra Corduneanu
 
