@@ -1,7 +1,7 @@
 ---
 title: Funding for Workshop in Spain
 description: Open call to join the 3rd WIMANET workshop
-background: /assets/images/PHOTO-2026-03-16-11-57-38.jpg
+background: /assets/images/PHOTO-2026-03-13-11-11-36.jpg
 author: Jenny Dunn
 tags: [funding]
 comments: true
