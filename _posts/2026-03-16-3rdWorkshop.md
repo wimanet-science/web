@@ -7,7 +7,7 @@ tags: [funding]
 comments: true
 ---
 
-## About the WIMANET workshop
+## About the workshop
 The 3rd WIMANET Workshop will take place from **2nd – 5th September 2026** in the **Faculty of Medicine and Health Sciences, University of Extremadura, Badajoz, Spain**. The workshop will take the form of the **VII International Conference on Malaria and other blood parasites of Wildlife & IV International symposium of Wildlife Diseases Research Network**.<br><br>
 This will be a **hybrid event**, allowing WIMANET participants to attend from all over the world. The call for funding applications will open on **16th March 2026** and close on **16th April 2026**. Applicants must have registered for the conference via the [conference website](https://wildlifeparasiteco.wixsite.com/vii-international-co) before the 16th April.<br><br>
 **Please note:** funding applications for the pre-conference summer school, the conference, and the 3rd Summer Training School must be submitted as separate applications.
@@ -26,7 +26,7 @@ The applications will be ranked by the Core Group based on:
 * Proposed contribution to the conference<br>
 
 The selection will follow the COST policies on inclusiveness (gender, age, geography). The final ranking will be approved by the Action Chair and Co-Chair. All researchers who applied to the call will be informed of the outcome of their application by **1st May 2026**.<br><br>
-**Please note**: We anticipate that there will be more applications than we can fund. The Core Group’s decision is final and based on the information provided in this form.<br>
+**Please note**: We anticipate that there will be more applications than we can fund. The Core Group’s decision is final and based on the information provided in this __[form]({{ '/assets/docs/Application_form for funded WIMANET conference attendance.docx' | relative_url }})__.<br>
 
 Please direct any questions regarding funding to [WIMANET](wimanet.science@gmail.com).<br>
 If you want to know more about the event, you can contact the [local organization committee](wildlife.parasite.conference@gmail.com).<br>
