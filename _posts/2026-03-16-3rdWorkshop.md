@@ -30,3 +30,5 @@ The selection will follow the COST policies on inclusiveness (gender, age, geogr
 
 Please direct any questions regarding funding to [WIMANET](wimanet.science@gmail.com).<br>
 If you want to know more about the event, you can contact the [local organization committee](wildlife.parasite.conference@gmail.com).<br>
+
+<img alt="course" width="99%" style="display: block; margin: auto;" src="{{ '/assets/images/PHOTO-2026-03-16-11-57-38.jpg' | relative_url }}">
