@@ -15,7 +15,7 @@ The call for applications for the Wildlife Malaria Network pre-conference Summer
 
 ## About the application process
 All the detailed information about the application process can be found in this __[document]({{ '/assets/docs/Training school announcement_phylogenomics.docx' | relative_url }})__.<br><br>
-All researchers who applied to the call will be informed of the outcome of their application by **1st May 2026**. <br><br>
+All researchers who applied to the call will be informed of the outcome of their application by **1st May 2026**. <br>
 **Note**: The selected researchers should wait for the **official eCOST invitation** from the Grant Awarding Co-ordinator/Grant Holder **before booking any travel arrangements**.<br><br>
 
 <img alt="course" width="99%" style="display: block; margin: auto;" src="{{ '/assets/images/PHOTO-2026-03-13-21-55-07.jpg' | relative_url }}">
