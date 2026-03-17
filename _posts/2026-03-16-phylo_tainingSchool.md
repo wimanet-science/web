@@ -10,8 +10,9 @@ comments: true
 ## About the Training School
 The Wildlife Malaria Network pre-conference Summer Training School will take place from **30th August – 1st September** in **Badajoz, Spain**. The training school will consist of three days of lectures and practical activities designed to introduce students to phylogenomics analysis. Specific topics will be tailored to the requirements of the students.<br>
 
-Important information from the instructors:<br>
-This workshop introduces the principles and practice of phylogenetics as a framework for inferring evolutionary histories from molecular data, emphasizing an understanding of the models and assumptions underlying these methods. Attention will be given to the strengths and limitations of data, methods, and models. Students will gain experience with specific computational tools. Reliable **access to a personal computer** is required, and students should have **Java installed** and a **text editor** (no Word). A **basic understanding of genetics** (e.g., Mendelian genetics, the genetic code, protein synthesis) is **expected**, and an introductory undergraduate-level course in **evolutionary biology is desirable** but not required.<br>
+Important **information** from the instructors:<br>
+This workshop introduces the principles and practice of phylogenetics as a framework for inferring evolutionary histories from molecular data, emphasizing an understanding of the models and assumptions underlying these methods. Attention will be given to the strengths and limitations of data, methods, and models. Students will gain experience with specific computational tools. <br>
+Reliable **access to a personal computer** is required, and students should have **Java installed** and a **text editor** (no Word). A **basic understanding of genetics** (e.g., Mendelian genetics, the genetic code, protein synthesis) is **expected**, and an introductory undergraduate-level course in **evolutionary biology is desirable** but not required.<br>
 
 **Note**: Funding applications for the pre-conference summer school, the conference, and the 3rd Summer Training School must be submitted as separate applications.<br><br>
 The call for applications for the Wildlife Malaria Network pre-conference Summer Training School will open on **16th March 2026** and close on **16th April 2026**.<br><br>
