@@ -7,14 +7,14 @@ toc: true
 
 ### Misa Shimizu
 Meet Misa Shimizu, a second-year PhD student at the Nature Research Centre in Lithuania, originally from Japan. Her research focuses on avian haemosporidian parasites in birds from The Gambia, using microscopy and molecular techniques to study parasite diversity and host–parasite relationships, particularly within Haemoproteus species.<br>
-Through WIMANET, Misa received a Short-Term Scientific Mission (STSM) grant that allowed her to carry out a research stay in the UK. Being a member of WIMANET has helped her exchange ideas, connect with new colleagues, and gain additional motivation for her research as a PhD student.<br>
+Through WIMANET, Misa received a [Short-Term Scientific Mission (STSM)](https://wimanet-science.github.io/web/stsms/#misa-shimizu) grant that allowed her to carry out a research stay in the UK. Being a member of WIMANET has helped her exchange ideas, connect with new colleagues, and gain additional motivation for her research as a PhD student.<br>
 
 <div class="ratio ratio-16x9 mb-3" width="220" align="right" >
 <iframe src="https://www.youtube.com/embed/aRKa_67vCI0?si=2QrDZSSCYjVIxIoe" frameborder="0" allowfullscreen></iframe>
 </div><br>
 
 ### Carolina Chagas
-This interview features Dr. Carolina Chagas, Senior Researcher at the Nature Research Centre in Vilnius, Lithuania. Her research focuses on vector–parasite relationships, spatio-temporal variation, and the diversity of haemosporidian parasites. Within WIMANET, she also serves as co-leader of WG3. In the interview, she highlights the importance of networking and participating in conferences and Short-Term Scientific Missions (STSMs) to build collaborations and advance research. She also contributed to the organization of the last WIMANET Summer School and participated in an STSM in Seville (Spain), which helped develop a scientific paper and start planning the next Summer School.<br>
+This interview features Dr. Carolina Chagas, Senior Researcher at the Nature Research Centre in Vilnius, Lithuania. Her research focuses on vector–parasite relationships, spatio-temporal variation, and the diversity of haemosporidian parasites. Within WIMANET, she also serves as co-leader of WG3. In the interview, she highlights the importance of networking and participating in conferences and [Short-Term Scientific Missions (STSMs)](https://wimanet-science.github.io/web/stsms/#carolina-chagas) to build collaborations and advance research. She also contributed to the organization of the last WIMANET Summer School and participated in an STSM in Seville (Spain), which helped develop a scientific paper and start planning the next Summer School.<br>
 Her experience shows how collaboration and active participation in scientific networks can open new opportunities for researchers at all stages of their careers.<br>
 
 <div class="ratio ratio-16x9 mb-3" width="220" align="right" >
