@@ -1,7 +1,7 @@
 ---
 title: Funding for vector training school
 description: Open call to join the WIMANET training school in Spain
-background: /assets/images/wimanet-presi.jpg
+background: /assets/images/anuncio summer school.png
 author: Martina Ferraguti
 tags: [funding]
 comments: true
