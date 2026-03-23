@@ -20,6 +20,4 @@ All the detailed information about the application process can be found in this 
 All researchers who applied to the call will be informed of the outcome of their application by **1st May 2026**. <br>
 **Note**: The selected researchers should wait for the **official eCOST invitation** from the Grant Awarding Co-ordinator/Grant Holder **before booking any travel arrangements**.<br>
 
-
-
-The Wildlife Malaria Network 3rd Summer Training School will take place from **7th – 11th September** in **Doñana, Spain**. The training school will consist of five days of lectures and practical activities designed to introduce students to a broad range of research activities and skills related to vector capture and identification, and bioinformatics analysis. Specific topics will be tailored to the requirements of the students.<br>
+<img alt="course" width="99%" style="display: block; margin: auto;" src="{{ '/assets/images/anuncio summer school.png' | relative_url }}">
