@@ -7,7 +7,7 @@ toc: true
 
 ### Marcela Suárez-Rubio
 Meet Dr. Marcela Suárez-Rubio, Senior Researcher at the University of Natural Resources and Life Sciences in Vienna, Austria. With years of experience in landscape ecology, her work has focused on spatio-temporal patterns and the processes shaping ecosystems. More recently, she has incorporated a parasitological perspective into her research, studying the effects of global change on the transmission of haemosporidian parasites.<br>
-As part of WG4, Marcela highlights how WIMANET connects researchers from diverse fields, fostering collaboration across disciplines and career stages. Through the network, she attended a summer school with intensive training in hematology and parasite identification. She emphasizes WIMANET’s value for early-career researchers, offering opportunities like Short-Term Scientific Missions, workshops, and conference support to gain experience, share research, and build networks.<br><br>
+As part of [WG4](https://wimanet-science.github.io/web/wg4/), Marcela highlights how WIMANET connects researchers from diverse fields, fostering collaboration across disciplines and career stages. Through the network, she attended a summer school with intensive training in hematology and parasite identification. She emphasizes WIMANET’s value for early-career researchers, offering opportunities like Short-Term Scientific Missions, workshops, and conference support to gain experience, share research, and build networks.<br><br>
 
 <div class="ratio ratio-16x9 mb-3" width="220" align="right" >
 <iframe src="https://www.youtube.com/embed/jwQlT7TbbIw?si=07u_SlhQ1szIKGnw" frameborder="0" allowfullscreen></iframe>
