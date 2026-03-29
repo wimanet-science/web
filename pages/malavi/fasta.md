@@ -11,9 +11,8 @@ The sequences in MalAvi are available to download in [Fasta-Format](https://www.
 ou can choose either to download all sequences or just sequences that are complete between positions 50-450 bp in the MalAvi region of the cytochrome b gene (Long sequences). 
 Additionally, you can choose to only download the sequences which were linked to morphologically identified species.
 
-<button name="button" onclick="/pages/404/">All sequences</button>
-<button name="button" onclick="/pages/404/">Long sequences</button>
-<button name="button" onclick="/pages/404/">Morpho sequences</button>
+<button name="button" onclick="/pages/404/">download FASTA file</button>
+
 
 
 <br>
