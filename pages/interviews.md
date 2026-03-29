@@ -5,6 +5,14 @@ permalink: /interviews/
 toc: true
 ---
 
+### Marcela Suárez-Rubio
+Meet Dr. Marcela Suárez-Rubio, Senior Researcher at the University of Natural Resources and Life Sciences in Vienna, Austria. With years of experience in landscape ecology, her work has focused on spatio-temporal patterns and the processes shaping ecosystems. More recently, she has incorporated a parasitological perspective into her research, studying the effects of global change on the transmission of haemosporidian parasites.<br>
+As part of WG4, Marcela highlights how WIMANET connects researchers from diverse fields, fostering collaboration across disciplines and career stages. Through the network, she attended a summer school with intensive training in hematology and parasite identification. She emphasizes WIMANET’s value for early-career researchers, offering opportunities like Short-Term Scientific Missions, workshops, and conference support to gain experience, share research, and build networks.<br><br>
+
+<div class="ratio ratio-16x9 mb-3" width="220" align="right" >
+<iframe src="https://www.youtube.com/embed/jwQlT7TbbIw?si=07u_SlhQ1szIKGnw" frameborder="0" allowfullscreen></iframe>
+</div><br>
+
 ### Misa Shimizu
 Meet Misa Shimizu, a second-year PhD student at the Nature Research Centre in Lithuania, originally from Japan. Her research focuses on avian haemosporidian parasites in birds from The Gambia, using microscopy and molecular techniques to study parasite diversity and host–parasite relationships, particularly within Haemoproteus species.<br>
 Through WIMANET, Misa received a [Short-Term Scientific Mission (STSM)](https://wimanet-science.github.io/web/stsms/#misa-shimizu) grant that allowed her to carry out a research stay in the UK. Being a member of WIMANET has helped her exchange ideas, connect with new colleagues, and gain additional motivation for her research as a PhD student.<br>
