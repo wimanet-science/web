@@ -7,11 +7,8 @@ permalink: /malavi/fasta/
 ---
 
 <br>
-The sequences in MalAvi are available to download in [Fasta-Format](https://www.ncbi.nlm.nih.gov/genbank/fastaformat/). Y
-ou can choose either to download all sequences or just sequences that are complete between positions 50-450 bp in the MalAvi region of the cytochrome b gene (Long sequences). 
-Additionally, you can choose to only download the sequences which were linked to morphologically identified species.
-
-Download the FASTA file of the current version: [MalAvi_2026-03-23.fas]({{ 'assets/malavi/MalAvi_2026-03-23.fas' | relative_url }}).
+The sequences in MalAvi are available to download in [Fasta-Format](https://www.ncbi.nlm.nih.gov/genbank/fastaformat/).<br> <br>
+Download the FASTA file of the current version: <br> [MalAvi_2026-03-23.fas]({{ 'assets/malavi/MalAvi_2026-03-23.fas' | relative_url }}).
 
 
 
