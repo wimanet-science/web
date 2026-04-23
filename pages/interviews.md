@@ -5,6 +5,23 @@ permalink: /interviews/
 toc: true
 ---
 
+### Jenny Dunn
+Meet Dr. Jenny Dunn, researcher at Keele University (UK) and Chair of WIMANET. Jenny’s research focuses on avian haemosporidian parasites, with particular emphasis on parasite diversity, host–parasite coevolution, and the impacts of infection on hosts.<br>
+As Chair of WIMANET, Jenny sees the network as a unique opportunity to bring people together and foster meaningful scientific exchange. She highlights the importance of having conversations in person and emphasizes the value of WIMANET in providing funding opportunities for younger researchers, enabling training, mobility, and the development of new skills. Through workshops, Short-Term Scientific Missions, and collaborative initiatives, the network promotes collaborations that inspire and sustain continued research on wildlife malaria.<br><br>
+
+<div class="ratio ratio-16x9 mb-3" width="220" align="right" >
+<iframe src="https://www.youtube.com/embed/Cd539quh1tc?si=amMKSzV8abuGuN-7" frameborder="0" allowfullscreen></iframe>
+</div><br>
+
+### Alfonso Marzal
+Meet WIMANET members - Dr. Alfonso Marzal, Professor of Zoology at the University of Extremadura (Spain) and Vice-Action Chair of the WIMANET COST Action. He highlights his experience in WIMANET as highly positive, emphasizing the opportunity to connect, communicate, and collaborate with researchers from diverse backgrounds and scientific approaches.<br>
+He values the network’s international nature, its diverse structure, and the training opportunities it offers, as well as its inclusive approach. He also believes WIMANET is a great opportunity for young researchers to build skills, gain visibility, and join an international scientific community.<br><br>
+
+<div class="ratio ratio-16x9 mb-3" width="220" align="right" >
+<iframe src="https://www.youtube.com/embed/Fv-P4qEYJ5Q?si=6D3zzZ-Qv76iVwyd" frameborder="0" allowfullscreen></iframe>
+</div><br>
+
+
 ### Marcela Suárez-Rubio
 Meet Dr. Marcela Suárez-Rubio, Senior Researcher at the University of Natural Resources and Life Sciences in Vienna, Austria. With years of experience in landscape ecology, her work has focused on spatio-temporal patterns and the processes shaping ecosystems. More recently, she has incorporated a parasitological perspective into her research, studying the effects of global change on the transmission of haemosporidian parasites.<br>
 As part of [WG4](https://wimanet-science.github.io/web/wg4/), Marcela highlights how WIMANET connects researchers from diverse fields, fostering collaboration across disciplines and career stages. Through the network, she attended a summer school with intensive training in hematology and parasite identification. She emphasizes WIMANET’s value for early-career researchers, offering opportunities like Short-Term Scientific Missions, workshops, and conference support to gain experience, share research, and build networks.<br><br>
