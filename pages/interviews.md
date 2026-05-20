@@ -5,6 +5,14 @@ permalink: /interviews/
 toc: true
 ---
 
+### Edward Netherlands
+Meet Edward Netherlands, Senior Lecturer at the University of the Free State (South Africa).His research combines herpetology, parasitology, and ecology, with a focus on blood parasites in reptiles and amphibians and their host–parasite interactions.<br>
+He values collaboration toward shared scientific goals and highlights the importance of engaging with summer school students and fellow researchers. Through informal exchanges, asking questions, and learning from experienced scientists, these interactions—putting faces to names, visiting labs, and receiving advice—can help accelerate scientific progress.<br><br>
+
+<div class="ratio ratio-16x9 mb-3" width="220" align="right" >
+<iframe src="https://www.youtube.com/embed/884GybUJVn8?si=sY2MKk2Cm7jQ327r" frameborder="0" allowfullscreen></iframe>
+</div><br>
+
 ### Jenny Dunn
 Meet Dr. Jenny Dunn, researcher at Keele University (UK) and Chair of WIMANET. Jenny’s research focuses on avian haemosporidian parasites, with particular emphasis on parasite diversity, host–parasite coevolution, and the impacts of infection on hosts.<br>
 As Chair of WIMANET, Jenny sees the network as a unique opportunity to bring people together and foster meaningful scientific exchange. She highlights the importance of having conversations in person and emphasizes the value of WIMANET in providing funding opportunities for younger researchers, enabling training, mobility, and the development of new skills. Through workshops, Short-Term Scientific Missions, and collaborative initiatives, the network promotes collaborations that inspire and sustain continued research on wildlife malaria.<br><br>
