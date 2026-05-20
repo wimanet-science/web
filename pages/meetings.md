@@ -5,7 +5,7 @@ permalink: /meetings/
 toc: true
 ---
 
-## 2025
+## 2026
 - Third workshop in the form of the International Conference on Malaria and other blood parasites of Wildlife, Badajoz, Spain, 2nd – 5th September (for details see the [conference website](https://wildlifeparasiteco.wixsite.com/vii-international-co)).
 
 ## 2025
