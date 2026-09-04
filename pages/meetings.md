@@ -10,7 +10,9 @@ toc: true
 - Summer school in May & June, at Lisbon, Portugal
 
 ## 2026
+- Vector training school hosted by the Doñana Biological Station, Doñana and Seville, l7 to 11 September
 - Third workshop in the form of the International Conference on Malaria and other blood parasites of Wildlife, Badajoz, Spain, 2nd – 5th September (for details see the [conference website](https://wildlifeparasiteco.wixsite.com/vii-international-co)).
+- Phylogenomics pre-conference training school, Badajoz, Spain, 30th August – 1st September
 
 ## 2025
 - Second training school, Vilnius, Lithuania, 18th - 22nd of August
