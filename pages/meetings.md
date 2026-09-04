@@ -5,6 +5,10 @@ permalink: /meetings/
 toc: true
 ---
 
+## 2027
+- Fourth action workshop and conference in August, at Belgrade, Serbia
+- Summer school in May & June, at Lisbon, Portugal
+
 ## 2026
 - Third workshop in the form of the International Conference on Malaria and other blood parasites of Wildlife, Badajoz, Spain, 2nd – 5th September (for details see the [conference website](https://wildlifeparasiteco.wixsite.com/vii-international-co)).
 
