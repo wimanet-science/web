@@ -6,8 +6,8 @@ background: /assets/images/MerApi_para.png
 permalink: /
 ---
 
-(../assets/images/COST_logo_corr.png)](https://www.cost.eu/actions/CA22108/)
-<img alt="button.webp" src="../assets/images/button.webp" width="250" align="right" style="position: relative; padding-top:-200px;">[![costeu]
+[![costeu](../assets/images/COST_logo_corr.png)](https://www.cost.eu/actions/CA22108/)
+<img alt="button.webp" src="../assets/images/button.webp" width="250" align="right" style="position: relative; padding-top:-200px;">
 
 <br/><br/>
 COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. 
