@@ -1,9 +1,74 @@
+
 ---
 title: Short-term Scientific Missions
 description: STSMs completed within WIMANET
 permalink: /stsms/
 toc: true
 ---
+
+## STSMs in 2025
+
+### Regine Claire Tabe Tiku
+
+<img alt="regine.jpg" src="../assets/images/regine.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Regine Claire Tabe Tiku from Austria went to visit Dr. Gediminas Valkiūnas in Lithuania to trained in morphological differential diagnosis of malaria and related haemosporidian parasites of birds.<br>
+
+Your training?
+
+> "The training, spanning over four-weeks, was to refine her microscopy skills and study parasite morphology, with hands-on examination of blood smears and identification of avian blood parasite species from migratory birds, with attempts to link morpho species to PCR-confirmed genetic lineages and description of potentially novel and cryptic parasite species."
+<br><br><br>
+
+### Misa Shimizu
+
+<img alt="misa_uk.jpg" src="../assets/images/misa_uk.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Misa Shimizu from Lithuania went to visit Dr. Jenny Dunn in the UK to conduct morphological and molecular analyses of samples and assess the immunological impact of Haemoproteus parasites on their avian hosts.<br>
+
+Your workflow?
+
+> "Workflow: Analysis of the vulture samples had to be conducted in the UK due to CITES restrictions and involved:  (a) Microscopy analysis with (i) morphological identification of Haemoproteus parasites, (ii) blood cell counts and (iii) cytometry to assess immunological responses; (b) molecular analysis in (i) optimizing PCR protocols and primer sets to improve DNA sequencing, (ii) re-testing archived samples to validate molecular identification methods and (iii) screening new samples; and phylogenetic analysis to classify parasite lineages."
+<br><br><br>
+
+### Jesús Veiga
+
+<img alt="jesus.jpg" src="../assets/images/jesus.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+Jesús Veiga from Spain went to visit Dr. Serafín Gutiérrez in France to learn novel genomic molecular tools for pathogen screening in Culicoides vectors.<br>
+
+Your aim?
+
+> "The aim was to acquire bioinformatics skills necessary for identifying viruses in Culicoides using genomic information and a bioinformatic approach traditionally used at the host institution to detect viruses."
+<br><br><br>
+
+
+### Irene Hernández Caballero
+
+<img alt="irene_lt.jpg" src="../assets/images/irene_lt.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+Irene Hernández Caballero from Spain went to visit Dr. Vaidas Palinauskas in Lithuania to work on the modulation of host gene expression and uropygial microbiome by *Plasmodium relictum*.<br>
+
+Your main work?
+
+> "The work involved a 49-days experiment, infecting canaries (*Serinus canaria domestica*) with *Plasmodium relictum* (lineage pSGS1), collecting blood samples for microscopy and molecular analyses, swab samples for microbiome analysis, and performing detailed microscopic evaluation of parasitemia."
+<br><br><br>
+
+### Gaia Porporato 
+
+<img alt="gaia.jpg" src="../assets/images/gaia.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+Gaia Porporato from Germany went to visit Prof. David Costantini in Italy to work on the oxidative stress as a direct response of Haemosporidian infection.<br>
+
+Your experience?
+
+> "Thanks  to the STSM that I carried out through WIMANET in the University of  Viterbo, I learned how to quantify oxidatory stress markers in blood samples. Joining their team expertise on oxidatory stress and immunology with our team expertise on blood parasites led to interesting insights of the physiology  associated with the host response to the parasite invasion."
+<br><br><br>
+
+### Claudio Navarrete 
+
+<img alt="claudio.jpg" src="../assets/images/claudio.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Claudio Navarrete from Lithuania went to visit Dr. Jenny Dunn in the UK to work on the spatial and temporal variation in Leucocytozoon infection across European Passer species.<br>
+
+Your objectives?
+
+> "The objectives of the STSM were to receive hands-on training in field sampling, molecular diagnostics, and microscopy for detecting Leucocytozoon parasites; to conduct fieldwork to capture birds and collect blood samples; and to perform laboratory analyses on archived and new samples."
+<br><br><br>
+
 
 ## STSMs in 2024
 
