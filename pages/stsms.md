@@ -9,7 +9,7 @@ toc: true
 
 ### Regine Claire Tabe Tiku
 
-<img alt="regine.jpg" src="../assets/images/regine.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="regine.jpg" src="../assets/images/regine.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Regine Claire Tabe Tiku from Austria went to visit Dr. Gediminas Valkiūnas in Lithuania to trained in morphological differential diagnosis of malaria and related haemosporidian parasites of birds.<br>
 
 Your training?
@@ -37,13 +37,24 @@ Your aim?
 > "The aim was to acquire bioinformatics skills necessary for identifying viruses in Culicoides using genomic information and a bioinformatic approach traditionally used at the host institution to detect viruses."
 <br><br><br>
 
+### Irene Hernández Caballero
+
+<img alt="irene_lt.jpg" src="../assets/images/irene_lt.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Irene Hernández Caballero from Spain went to visit Dr. Vaidas Palinauskas in Lithuania to work on the modulation of host gene expression and uropygial microbiome by *Plasmodium relictum*.<br>
+
+Your main work?
+
+> "The work involved a 49-days experiment, infecting canaries (*Serinus canaria domestica*) with *Plasmodium relictum* (lineage pSGS1), collecting blood samples for microscopy and molecular analyses, swab samples for microbiome analysis, and performing detailed microscopic evaluation of parasitemia."
+<br><br><br>
+
+
 
 
 ## STSMs in 2024
 
 ### Margarita Kazak 
 
-<img alt="margarita.jpg" src="../assets/images/margarita.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="margarita.jpg" src="../assets/images/margarita.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to train on the taxonomy and systematics of Culicoides (Diptera: Ceratopogonidae) biting midges including training on morphological and molecular methods and to expand her knowledge on biting midge seasonal trapping method selection.<br>
 
 Your expectations?
@@ -53,7 +64,7 @@ Your expectations?
 
 ### Carolina Chagas 
 
-<img alt="carolina.jpg" src="../assets/images/carolina.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="carolina.jpg" src="../assets/images/carolina.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in Spain. She is co-leading the WG3 and wanted to discuss the next steps for it with Dr. Josue Martinez-de La Puente. During this visit they were able to start writing a review about the role of Culicoides in the transmission of Haemoproteus and Trypanosoma. This review is going to include several participants of the network and should be submitted soon. Additionally, they also discussed about the 2026 Summer School, to be focused on vectors and to be held in Spain.<br>
 
 An anecdote?
@@ -63,7 +74,7 @@ An anecdote?
 
 ### Marta Garrigós 
 
-<img alt="marta.jpg" src="../assets/images/marta.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="marta.jpg" src="../assets/images/marta.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analyze data of the microbiome of Culex pipiens mosquitoes exposed and unexposed to Plasmodium relictum.<br>
 
 An anecdote?
@@ -73,7 +84,7 @@ An anecdote?
 
 ### Misa Shimizu 
 
-<img alt="misa.jpg" src="../assets/images/misa.jpeg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="misa.jpg" src="../assets/images/misa.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Misa Schimizu from Lithuania visited Dr. Jenny Dunn, in the UK to conduct morphological and molecular identification of Haemoproteus in vultures.<br>
 
 An anecdote?
@@ -83,7 +94,7 @@ An anecdote?
 
 ### Irène Hernández Caballero 
 
-<img alt="logo" src="../assets/images/irene.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="logo" src="../assets/images/irene.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denmark to analyze uropygialmicrobiome samples from house sparrows infected with avian malaria.<br>
 
 An anecdote?
@@ -93,7 +104,7 @@ An anecdote?
 
 ### Luca Ilahiane
 
-<img alt="logo" src="../assets/images/luca.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="logo" src="../assets/images/luca.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perform sample screening for parasite occurrence in avian samples, collected as part of a broader study investigating the effects of urbanization on synanthropic and near-endemic species.<br>
 
 Your expectations?
@@ -103,7 +114,7 @@ Your expectations?
 
 ### Attila Sándor
 
-<img alt="logo" src="../assets/images/attila.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="logo" src="../assets/images/attila.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre for Ecology, Evolution and Environmental Changes at the University of Lisbon, Portugal, to bridge research methodology and practical knowledge between two teams of bat researchers in order to set up a joint study in bat-malaria.<br>
 
 Your expectations?
@@ -113,7 +124,7 @@ Your expectations?
 
 ### Alexandra Corduneanu
 
-<img alt="logo" src="../assets/images/alexandra.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+<img alt="logo" src="../assets/images/alexandra.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
 Alexandra Corduneanu from Romania visited Alejandro Cabezas-Cruz, PhD Principal Investigator UMR BIPAR (INRAE, Anses, EnvA), Paris, France to analyze the microbiome of bats associated with their parasites. The outcomes of this visit will contribute to a deeper understanding of bat-associated vector-borne pathogens in French Giana and Romania, aiding in the development of effective surveillance and management strategies. By elucidating the complex interactions between bats and their vector-borne pathogens, this study aimed to mitigate the risks posed by these diseases to both wildlife and human populations.<br>
 
 An anecdote?
