@@ -30,7 +30,7 @@ Your workflow?
 
 ### Jesús Veiga
 
-<img alt="jesus.jpg" src="../assets/images/jesus.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+<img alt="jesus.jpeg" src="../assets/images/jesus.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Jesús Veiga from Spain went to visit Dr. Serafín Gutiérrez in France to learn novel genomic molecular tools for pathogen screening in Culicoides vectors.<br>
 
 Your aim?
@@ -41,7 +41,7 @@ Your aim?
 
 ### Irene Hernández Caballero
 
-<img alt="irene_lt.jpg" src="../assets/images/irene_lt.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+<img alt="irene_lt.jpeg" src="../assets/images/irene_lt.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Irene Hernández Caballero from Spain went to visit Dr. Vaidas Palinauskas in Lithuania to work on the modulation of host gene expression and uropygial microbiome by *Plasmodium relictum*.<br>
 
 Your main work?
@@ -74,7 +74,7 @@ Your objectives?
 
 ### Margarita Kazak 
 
-<img alt="margarita.jpg" src="../assets/images/margarita.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+<img alt="margarita.jpeg" src="../assets/images/margarita.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to train on the taxonomy and systematics of Culicoides (Diptera: Ceratopogonidae) biting midges including training on morphological and molecular methods and to expand her knowledge on biting midge seasonal trapping method selection.<br>
 
 Your expectations?
@@ -84,7 +84,7 @@ Your expectations?
 
 ### Carolina Chagas 
 
-<img alt="carolina.jpg" src="../assets/images/carolina.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+<img alt="carolina.jpeg" src="../assets/images/carolina.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in Spain. She is co-leading the WG3 and wanted to discuss the next steps for it with Dr. Josue Martinez-de La Puente. During this visit they were able to start writing a review about the role of Culicoides in the transmission of Haemoproteus and Trypanosoma. This review is going to include several participants of the network and should be submitted soon. Additionally, they also discussed about the 2026 Summer School, to be focused on vectors and to be held in Spain.<br>
 
 An anecdote?
@@ -94,7 +94,7 @@ An anecdote?
 
 ### Marta Garrigós 
 
-<img alt="marta.jpg" src="../assets/images/marta.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
+<img alt="marta.jpeg" src="../assets/images/marta.jpeg" width="250" align="right" style="position: relative; padding-left:20px;">
 Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analyze data of the microbiome of Culex pipiens mosquitoes exposed and unexposed to Plasmodium relictum.<br>
 
 An anecdote?
