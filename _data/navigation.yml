@@ -34,7 +34,9 @@
     href: /interviews/
   - text: Newsletter
     href: /newsletter/
-  - text: MalAvi database
+  - text: WiMaGames
+    #href: /wimagames/
+  - text: → MalAvi database ←
     href: /malavi/
     new_window: true
 - text: Activities
