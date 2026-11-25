@@ -37,7 +37,7 @@
   - text: WiMa-Games
     href: /wimagames/
   - text: MalAvi database
-    href: /malavi/
+    href: https://malavi-db.github.io/index.html
     new_window: true
 - text: Activities
   href: /activities/
