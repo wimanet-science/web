@@ -1,6 +1,6 @@
 ---
 title: WiMa-Games
-description: "Fun and quick wayy to practice" 
+description: "Fun and quick way to practice" 
 permalink: /wimagames/
 toc: true
 ---
