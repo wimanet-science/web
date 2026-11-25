@@ -35,7 +35,7 @@
   - text: Newsletter
     href: /newsletter/
   - text: WiMaGames
-    #href: /wimagames/
+    href: /wimagames/
   - text: → MalAvi database ←
     href: /malavi/
     new_window: true
