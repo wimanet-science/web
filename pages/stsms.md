@@ -5,6 +5,19 @@ permalink: /stsms/
 toc: true
 ---
 
+## STSMs in 2025
+
+### Regine Claire Tabe Tiku
+
+<img alt="regine.jpg" src="../assets/images/regine.jpg" width="300" align="right" style="position: relative; padding-left:20px;">
+Regine Claire Tabe Tiku from Austria went to visit Dr. Gediminas Valkiūnas in Lithuania to trained in morphological differential diagnosis of malaria and related haemosporidian parasites of birds.<br>
+
+Your training?
+
+> "The training, spanning over four-weeks, was to refine her microscopy skills and study parasite morphology, with hands-on examination of blood smears and identification of avian blood parasite species from migratory birds, with attempts to link morpho species to PCR-confirmed genetic lineages and description of potentially novel and cryptic parasite species."
+<br><br><br>
+
+
 ## STSMs in 2024
 
 ### Margarita Kazak 
