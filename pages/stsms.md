@@ -47,6 +47,27 @@ Your main work?
 > "The work involved a 49-days experiment, infecting canaries (*Serinus canaria domestica*) with *Plasmodium relictum* (lineage pSGS1), collecting blood samples for microscopy and molecular analyses, swab samples for microbiome analysis, and performing detailed microscopic evaluation of parasitemia."
 <br><br><br>
 
+### Gaia Porporato 
+
+<img alt="gaia.jpg" src="../assets/images/gaia.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Gaia Porporato from Germany went to visit Prof. David Costantini in Italy to work on the oxidative stress as a direct response of Haemosporidian infection.<br>
+
+Your experience?
+
+> "Thanks  to the STSM that I carried out through WIMANET in the University of  Viterbo, I learned how to quantify oxidatory stress markers in blood samples. Joining their team expertise on oxidatory stress and immunology with our team expertise on blood parasites led to interesting insights of the physiology  associated with the host response to the parasite invasion."
+<br><br><br>
+
+### Claudio Navarrete 
+
+<img alt="claudio.jpg" src="../assets/images/claudio.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Claudio Navarrete from Lithuania went to visit Dr. Jenny Dunn in the UK to work on the spatial and temporal variation in Leucocytozoon infection across European Passer species.<br>
+
+Your objectives?
+
+> "The objectives of the STSM were to receive hands-on training in field sampling, molecular diagnostics, and microscopy for detecting Leucocytozoon parasites; to conduct fieldwork to capture birds and collect blood samples; and to perform laboratory analyses on archived and new samples."
+<br><br><br>
+
+
 
 
 
@@ -60,7 +81,7 @@ Margarita Kazak from Lithuania went to visit Dr. Bruno Mathieu in France to trai
 Your expectations?
 
 > "Because of this internship, I was able not only to deepen my knowledge, but also to learn new methods to prepare the material for morphological identification; I was able to discover a new species in Lithuania in the material I had brought with me to the STSM, I was able to work with the Culicoides fauna of Asia and to visit several French farms where we carried out trapping of biting midges. Moreover, I was invited by dr. Bruno Mathieu to go to trainings in Vietnam as an expert on Culicoides; the trip to Vietnam and experience overall opened new carrier opportunities for me and gave me valuable experience."
-<br>
+<br><br><br>
 
 ### Carolina Chagas 
 
@@ -70,7 +91,7 @@ Carolina Chagas from Lithuania, went to visit Dr. Josue Martinew-de la Puente in
 An anecdote?
 
 > "The entire experience was great! I had the opportunity to interact more with such renowned researchers such as Dr. Josue Martinez-de La Puente, Dr. Martina Ferraguti and Dr. Jesus Veiga. It was also nice to see their research facilities and bring this knowledge back to my home institution. I also had the opportunity to meet Dr. Mikel Alexander González, which is an expert in Diptera insects. Everyone in the laboratory was very friendly and it is a place that I would love to come back!."
-<br>
+<br><br><br>
 
 ### Marta Garrigós 
 
@@ -80,7 +101,7 @@ Marta Garrigós from Spain went to visit Dr. Ellin Videvall in  Sweden, to analy
 An anecdote?
 
 > "I had the opportunity to attend a Swedish thesis defense. The PhD students made a theater parody of the person defending the thesis and the different people in the department, and I found it funny."
-<br>
+<br><br><br>
 
 ### Misa Shimizu 
 
@@ -90,7 +111,7 @@ Misa Schimizu from Lithuania visited Dr. Jenny Dunn, in the UK to conduct morpho
 An anecdote?
 
 > "I identified Haemoproteus parasites from vultures morphologically for the first time. STSM was also a nice opportunity to talk with researchers and students having different backgrounds at Keele University."
-<br>
+<br><br><br>
 
 ### Irène Hernández Caballero 
 
@@ -100,7 +121,7 @@ Irène Hernández Caballero from Spain went to visit Dr. Kasun Bodawatta in Denm
 An anecdote?
 
 > "Dr. Bodawatta was very welcoming and thoughtful. One of the most memorable moments was when he brought me a croissant as a welcome gift, as I had told him I love pastries. I thought it was a very nice gesture and the best welcome. I also had the pleasure of attending a lab meeting and spending a few days doing field work with his group, which was a very valuable experience."
-<br>
+<br><br><br>
 
 ### Luca Ilahiane
 
@@ -110,7 +131,7 @@ Luca Ilahiane from Italy, went to visit Dr. Martina Ferraguti in Spain to perfor
 Your expectations?
 
 > "In just one month of stay, all 388 samples were fully screened for all parasites, and the infected ones were sequenced. This provided interesting new data on host-parasite relationships in heavily urbanized environments."
-<br>
+<br><br><br>
 
 ### Attila Sándor
 
@@ -120,7 +141,7 @@ Attila Sándor from Hungary went to visit the Bat Ecology Group of the Centre fo
 Your expectations?
 
 > "The results of the STSM are the jointly approved and enhanced set of highly standardized procedures for simultaneous data collection for the impact of hibernation (or lack of hibernation) on malaria-clearance in bent-winged bats, which will constitute the base for an experimental study in the near future. The techniques were tested and repeated in three successive setting at three different bent-winged bat colonies in N, C and SE Portugal (Tamar/Nabao, Mira Moura and Montemor-o-Novo), both at natural (caves), as well anthropogenic roosts (mine shafts). The participants from Portugal (2 persons from the University and 3 persons from local groups at Porto and Montemor) were familiarized with techniques of bat capture as well blood and ectoparasite collection intended for malaria surveys."
-<br>
+<br><br><br>
 
 ### Alexandra Corduneanu
 
@@ -130,4 +151,4 @@ Alexandra Corduneanu from Romania visited Alejandro Cabezas-Cruz, PhD Principal 
 An anecdote?
 
 > "During my time at UMR-BIPAR ANSES in Paris, I spent countless hours in the lab carefully analyzing samples collected from bats. One afternoon, while discussing preliminary results with colleagues, we detected an unexpected pathogen appearing across multiple samples—one we hadn’t initially set out to find. Was this pathogen just an incidental finding, or was it playing a larger role in bat-vector interactions than we had anticipated? We are putting together all the information to identify if really is something new or not."
-<br>
+<br><br><br>
