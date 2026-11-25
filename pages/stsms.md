@@ -17,6 +17,27 @@ Your training?
 > "The training, spanning over four-weeks, was to refine her microscopy skills and study parasite morphology, with hands-on examination of blood smears and identification of avian blood parasite species from migratory birds, with attempts to link morpho species to PCR-confirmed genetic lineages and description of potentially novel and cryptic parasite species."
 <br><br><br>
 
+### Misa Shimizu
+
+<img alt="misa_uk.jpg" src="../assets/images/misa_uk.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Misa Shimizu from Lithuania went to visit Dr. Jenny Dunn in the UK to conduct morphological and molecular analyses of samples and assess the immunological impact of Haemoproteus parasites on their avian hosts.<br>
+
+Your workflow?
+
+> "Workflow: Analysis of the vulture samples had to be conducted in the UK due to CITES restrictions and involved:  (a) Microscopy analysis with (i) morphological identification of Haemoproteus parasites, (ii) blood cell counts and (iii) cytometry to assess immunological responses; (b) molecular analysis in (i) optimizing PCR protocols and primer sets to improve DNA sequencing, (ii) re-testing archived samples to validate molecular identification methods and (iii) screening new samples; and phylogenetic analysis to classify parasite lineages."
+<br><br><br>
+
+### Jesús Veiga
+
+<img alt="jesus.jpg" src="../assets/images/jesus.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
+Jesús Veiga from Spain went to visit Dr. Serafín Gutiérrez in France to learn novel genomic molecular tools for pathogen screening in Culicoides vectors.<br>
+
+Your aim?
+
+> "The aim was to acquire bioinformatics skills necessary for identifying viruses in Culicoides using genomic information and a bioinformatic approach traditionally used at the host institution to detect viruses."
+<br><br><br>
+
+
 
 ## STSMs in 2024
 
