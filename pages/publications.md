@@ -5,26 +5,20 @@ permalink: /publications/
 toc: true
 ---
 
+## 2026
+Cruz JT, de Carvalho LM, Quaresma MAG. et al. (2026). Uncovering haemosporidian diversity in urban Feral Pigeons (Columba livia domestica) in Lisbon, Portugal: integrated molecular and morphological insights. _Journal of Ornithology_ 167, 747–759. <https://doi.org/10.1007/s10336-026-02392-7>
+
 ## 2025
-
 Shimizu M, Chagas CRF & Dunn JC (2025). Review of Genetic Information of Morphologically Described Haemoproteus Parasites Recorded in GenBank and MalAvi Databases. _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.70031>
-
 Garrigós M, García-Ruiz O, Enkvist CR ... & Martínez-de la Puente J (2025). Effects of avian Plasmodium exposure on the microbiota of Culex pipiens. _Scientific Reports_ 15, 38898. <https://doi.org/10.1038/s41598-025-22774-w>
-
 Duc M, Iezhova T, Valkiūnas G, Landau I & Duval L (2025). Treasure Chest in the Taxonomic Collection: Molecular Characterization and Redescription of Haemoproteus handai, with Insights into the Phylogenetic Relationship of Haemosporidian Parasites of Parrots (Psittaciformes). _Integrative Zoology_. <https://doi.org/10.1111/1749-4877.13023>.
-
 Chagas CRF, Bernotienė R, Bobeva A, ... & Martínez-de la Puente J (2025). A literature review on the role of Culicoides in the transmission of avian blood parasites in Europe. _Parasites Vectors_ 18, 329. <https://doi.org/10.1186/s13071-025-06957-y>.
-
 Ágh N, Pásztory-Kovács S,Prohászka V., Csörgő T & Szöllősi E (2025). Different age, different blood parasites - Acrocephalus species and their haemosporidian parasites during autumn migration in Central Europe. 
 _International Journal for Parasitology: Parasites and Wildlife_, Volume 27, 101085. <https://doi.org/10.1016/j.ijppaw.2025.101085>.
-
 Bodawatta KH, Albrecht T, Krausová S, Nana ED, Hořák D, Sedláček O, ... & Munclinger P (2025). Cophylogeny, narrow host breadth and local conditions drive highly specialized bird–haemosporidian associations in West-Central African sky islands. _Proceedings B_, 292(2039), 20242524.<https://doi.org/10.1098/rspb.2024.2524>.
 
 ## 2024
 Huang X, Chakarov N, & Dunn JC (2024). Molecular advances of host-parasite associations in wildlife. Frontiers in Ecology and Evolution, 12, 1467572. <https://doi.org/10.3389/fevo.2024.1467572>.
-
 Jones W, Reifová R, Reif J, et al (2024). Sympatry in a nightingale contact zone has no effect on host-specific blood parasite prevalence and lineage diversity. _International Journal for Parasitology_ 54:357–366. <https://doi.org/10.1016/j.ijpara.2024.03.002>.
-
 Musa S, Hemberle T, Bensch S, Palinauskas V, Baltrūnaitė L, Woog F and Mackenstedt U (2024). Raising the bar: genus-specific nested PCR improves detection and lineage identification of avian haemosporidian parasites. _Frontiers in Cellular and Infection Microbiology_ 14:1385599. <https://doi.org/10.3389/fcimb.2024.1385599>.
-
 Gutiérrez-López R, Ferraguti M, Bodawatta KH, Chagas C RF, Chakarov N, Duc M, Emmenegger T, García-Longoria L, Lopes RJ, Martínez-de la Puente J, Renner SC, Santiago-Alarcon D, Sehgal R MN, Stankovic D, Marzal A, Dunn JC (2024). The Wildlife Malaria Research network (WIMANET): Meeting report on the 1st WIMANET workshop. _International Journal for Parasitology: Parasites and Wildlife_ 25 (100989). <https://doi.org/10.1016/j.ijppaw.2024.100989>.
