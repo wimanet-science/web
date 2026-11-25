@@ -40,7 +40,7 @@ Your aim?
 ### Irene Hernández Caballero
 
 <img alt="irene_lt.jpg" src="../assets/images/irene_lt.jpg" width="250" align="right" style="position: relative; padding-left:20px;">
-Irene Hernández Caballero from Spain went to visit Dr. Vaidas Palinauskas in Lithuania to work on the modulation of host gene expression and uropygial microbiome by *Plasmodium relictum*.<br>
+Irene Hernández Caballero from Spain went to visit Dr. Vaidas Palinauskas in Lithuania to work on the modulation of host gene expression and uropygial microbiome by Plasmodium relictum.<br>
 
 Your main work?
 
