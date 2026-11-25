@@ -8,6 +8,7 @@ toc: true
 Suscribe to the WIMANEWS newsletter [here](https://wimanet-science.github.io/web/contact/)!
 
 ## 2026
+10/06 WIMANEWS 24: [Conference & Summer Schools 2026, Games, Interview, MalAvi & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=db1a66b743)<br>
 07/09 WIMANEWS 23: [Grant Holder Manager, STSMs 2025 p.2, Interview & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=db1a66b743)<br>
 06/08 WIMANEWS 22: [Special Issue call, STSMs 2025, New video & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=0ed7ff5caf)<br>
 05/07 WIMANEWS 21: [Special Issue, Conference experiences, New video, MalAvi & publications](https://us13.campaign-archive.com/?u=275310857bbcf917bec086b17&id=168cab13c0)<br>
